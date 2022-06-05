@@ -1,0 +1,19 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "JustCursed",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "discord.js": "^13.7.0",
+    "lodash": "^4.17.21",
+    "node-fetch": "^2.6.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
