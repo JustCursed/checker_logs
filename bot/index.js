@@ -25,9 +25,10 @@ client.on('ready', async client => {
 		}
 		reverse(logsArr);
 		lastLenght = logs2.length;
+		console.log(logsArr);
 		if (logsArr) {
 			for (const log of logsArr) {
-				client.channels.cache.get(config.chennalID).send(log);
+				client.channels.cache.get(config.chennalID).send(`\`${log}\``);
 			}
 		}
 		await sleep(1000);
