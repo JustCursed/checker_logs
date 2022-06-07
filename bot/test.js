@@ -2,15 +2,15 @@ const fetch = require('node-fetch');
 const split = require('lodash/split');
 const reverse = require('lodash/reverse');
 
-const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
+// const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
 
-const request = async () => split(await (await fetch(`https://logs6.mcskill.net/Magiccraft_Contigo_public_logs/${("0" + new Date().getDate()).slice(-2)}-${("0" + (new Date().getMonth() + 1)).slice(-2)}-${new Date().getFullYear()}.txt`)).text(), /\r\n|\r|\n/); // TODO: сделать красивее это уродство...
+const request = async () => split(await (await fetch(`https://logs7.mcskill.net/Technomagic_public_logs/${("0" + new Date().getDate()).slice(-2)}-${("0" + (new Date().getMonth() + 1)).slice(-2)}-${new Date().getFullYear()}.txt`)).text(), /\r\n|\r|\n/); // TODO: сделать красивее это уродство...
 
 (async () => {
 	const logs1 = await request();
 
 	let lastLenght = logs1.length;
-	while (true) {
+	setInterval (async () => {
 		let logsArr = [];
 		const logs2 = await request();
 
@@ -22,6 +22,6 @@ const request = async () => split(await (await fetch(`https://logs6.mcskill.net/
 		reverse(logsArr);
 		lastLenght = logs2.length;
 		console.log(logsArr.join(','));
-		await sleep(10000);
-	}
+		// await sleep(10000);
+	}, 10000);
 })();

@@ -7,14 +7,14 @@ const config = require('./config');
 
 const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
 
-const request = async () => split(await (await fetch(`https://logs6.mcskill.net/Magiccraft_Contigo_public_logs/${("0" + new Date().getDate()).slice(-2)}-${("0" + (new Date().getMonth() + 1)).slice(-2)}-${new Date().getFullYear()}.txt`)).text(), /\r\n|\r|\n/); // TODO: сделать красивее это уродство...
+const request = async () => split(await (await fetch(`https://logs7.mcskill.net/Technomagic_public_logs/${("0" + new Date().getDate()).slice(-2)}-${("0" + (new Date().getMonth() + 1)).slice(-2)}-${new Date().getFullYear()}.txt`)).text(), /\r\n|\r|\n/); // TODO: сделать красивее это уродство...
 
 client.on('ready', async client => {
 	console.log(`Logged in as ${client.user.tag}!`);
 
 	const logs1 = await request();
 	let lastLenght = logs1.length;
-	while (true) {
+	setInterval(async () => {
 		let logsArr = [];
 		const logs2 = await request();
 
@@ -29,10 +29,10 @@ client.on('ready', async client => {
 		if (logsArr) {
 			for (const log of logsArr) {
 				client.channels.cache.get(config.chennalID).send(`\`${log}\``);
+				await sleep(300);
 			}
 		}
-		await sleep(1000);
-	}
+	}, 1000);
 });
 
 client.login(config.token);
