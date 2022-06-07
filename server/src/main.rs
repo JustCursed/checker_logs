@@ -1,8 +1,11 @@
-use actix_web::{get, web, App, HttpServer, Responder};
+use std::{thread, time};
 use std::fs::File;
 use std::io::prelude::*;
-use std::{ thread, time };
-use tokio::{ io, fs };
+
+use actix_web::{App, get, HttpServer, Responder, web};
+use tokio::io;
+
+use updater::*;
 
 #[get("/{project}/{server}/index.html")]
 async fn index(params: web::Path<(String, String)>) -> impl Responder {
@@ -32,15 +35,4 @@ fn cat(path: String) -> io::Result<String> {
         Ok(_) => Ok(s),
         Err(e) => Err(e),
     }
-}
-
-async fn updater_logs() {
-	let resp = reqwest::get("https://logs3.shadowcraft.ru/Hitech_public_logs/08-06-2022.txt")
-		.await
-		.expect("pizda1")
-		.text()
-		.await
-		.expect("pizda2");
-	println!("proshlo!");
-	fs::write("logs/shadowcraft_magic1710.txt", resp).await.unwrap();
 }
