@@ -36,18 +36,3 @@ fn cat(path: String) -> io::Result<String> {
         Err(e) => Err(e),
     }
 }
-// use chrono::{Datelike, NaiveDate};
-
-// use std::slice::Split;
-// use std::str::SplitWhitespace;
-//
-// fn main() {
-// 	// let d = NaiveDate::from_ymd(2015, 3, 14);
-// 	let d = chrono::offset::Local::now().to_string();
-// 	let q: Vec<&str> = d.split(" ").collect();
-// 	let t: Vec<&str> = q[0].split("-").collect();
-// 	println!("{}-{}-{}", t[2], t[1], t[0]);
-// 	// println!("{:?}", d.to_string());
-// 	let v: Vec<&str> = "lion::tiger::leopard".split("::").collect();
-//     println!("{:?}", v);
-// }

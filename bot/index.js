@@ -35,26 +35,4 @@ client.on('ready', async client => {
 	}, 1000);
 });
 
-client.login(config.token)/*.then(async () => {
-	const logs1 = await request();
-	let lastLenght = logs1.length;
-	setInterval(async () => {
-		let logsArr = [];
-		const logs2 = await request();
-
-		for (let i = 0; i < logs2.length - lastLenght; i++) {
-			let count = logs2.length - 2 - i;
-			logsArr.push(logs2[count]);
-			count++;
-		}
-		reverse(logsArr);
-		lastLenght = logs2.length;
-		console.log(logsArr);
-		if (logsArr) {
-			for (const log of logsArr) {
-				client.channels.cache.get(config.chennalID).send(`\`${log}\``);
-				await sleep(300);
-			}
-		}
-	}, 1000);
-})*/;
+client.login(config.token);
