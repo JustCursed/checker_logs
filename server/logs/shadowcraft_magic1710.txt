@@ -1,1 +1,2047 @@
-dawda wdaWdaWdaw
+[00:00:06] [G] Renko: !как?
+[00:00:07] ponyapapacurseda issued server command: /pm zxcursed1337 меня перекинули
+[00:00:10] [L] V_Toxa_V: Ветрогенератор
+[00:00:10] zxcursed1337 issued server command: /r /rg info и название региона
+[00:00:11] [G] Jorge: ! там 1 вход
+[00:00:14] [G] ponyapapacurseda: !cпасибо
+[00:00:14] zxcursed1337 issued server command: /r И там увидишь коорды
+[00:00:24] Goggi007 issued server command: /kit eat
+[00:00:26] Mazuna issued server command: /we cui
+[00:00:26] Legeboka issued server command: /warp one
+[00:00:31] Slyyype issued server command: /TP Jorge
+[00:00:31] vitask issued server command: /zset 3
+[00:00:32] ponyapapacurseda issued server command: /рщьу
+[00:00:32] ponyapapacurseda issued server command: /home
+[00:00:32] [L] EmptyAFK: спс
+[00:00:34] ponyapapacurseda issued server command: /spawn
+[00:00:36] ponyapapacurseda issued server command: /we cui
+[00:00:38] [L] vitask: Воду не надо
+[00:00:40] [G] Renko: !на выход?
+[00:00:41] Goggi007 issued server command: /home
+[00:00:46] [G] Jorge: ! Ты скрафтишь?
+[00:00:47] [L] Yoonllx: а какие еще есть
+[00:00:50] ponyapapacurseda issued server command: /home
+[00:00:52] ponyapapacurseda issued server command: /we cui
+[00:00:55] [L] Stern633: ну да, деревья без воды растут
+[00:00:57] MClike issued server command: /home
+[00:00:57] enioZz issued server command: /warp s
+[00:00:59] MClike issued server command: /we cui
+[00:01:05] Goggi007 issued server command: /warp s
+[00:01:05] [L] Yoonllx: о например это
+[00:01:07] [L] Stern633: нужны саженцы?
+[00:01:10] ponyapapacurseda issued server command: /warp s
+[00:01:13] [G] Renko: !та у меня тут мельницы крутяться отсюда возьму
+[00:01:15] [L] V_Toxa_V: Ааа, это ферма
+[00:01:20] [L] Yoonllx: а тоже самое что и это
+[00:01:20] MClike issued server command: /warp s
+[00:01:22] [G] Jorge: ! Ну там вот вход есть же
+[00:01:28] Mazuna issued server command: /co i
+[00:01:28] [L] V_Toxa_V: Тут картошка, еда бесконечная
+[00:01:29] [L] Slyyype: Jorge
+[00:01:29] [L] EmptyAFK: квг же нету
+[00:01:30] [L] Yoonllx: ну это у меня есть но не ферма
+[00:01:31] [L] Jorge: ая
+[00:01:33] Mazuna issued server command: /co i
+[00:01:36] [L] V_Toxa_V: А из этого, резина делается
+[00:01:36] [L] Slyyype: шо как лагает?ъ
+[00:01:39] [L] Jorge: не
+[00:01:42] [L] Jorge: норм все
+[00:01:43] [L] ponyapapacurseda: cек бро
+[00:01:43] [L] EmptyAFK: да
+[00:01:44] [L] Yoonllx: дерево есть
+[00:01:47] [L] Yoonllx: а жрачки нету
+[00:01:48] Legeboka issued server command: /home
+[00:01:50] [L] EmptyAFK: только реакторы
+[00:01:52] [L] V_Toxa_V: Го дам тебе
+[00:01:54] Slyyype issued server command: /vanish
+[00:01:56] [L] EmptyAFK: остались
+[00:01:57] vitask issued server command: /tp Jorge
+[00:01:58] Slyyype issued server command: /vanish
+[00:01:58] [L] EmptyAFK: да
+[00:01:59] [L] Slyyype: кайф
+[00:01:59] [L] Yoonllx: ну го
+[00:02:06] mvp69 вышел
+[00:02:07] Legeboka issued server command: /warp one
+[00:02:09] [L] Stern633: можно получше разобраться с модом opencomputers и накодить чо нибудь классное
+[00:02:11] MClike issued server command: /home
+[00:02:14] ponyapapacurseda issued server command: /home
+[00:02:15] Legeboka issued server command: /home
+[00:02:15] [L] Yoonllx: я бы хотел бы прокачать дом.....
+[00:02:18] [G] Renko: !а сам стол как ставить?
+[00:02:20] [L] Yoonllx: по красивее
+[00:02:23] [L] Yoonllx: огоооо
+[00:02:26] [L] Yoonllx: спасибо
+[00:02:30] MClike issued server command: /warp mining
+[00:02:32] [L] EmptyAFK: им пох
+[00:02:32] [L] Yoonllx: но не знаю как прокачать
+[00:02:33] [L] V_Toxa_V: Та не за что
+[00:02:33] MClike issued server command: /we cui
+[00:02:36] [L] EmptyAFK: кого банить
+[00:02:37] MClike issued server command: /rtp
+[00:02:39] Jorge issued server command: /tpa Renko
+[00:02:41] [L] V_Toxa_V: Я её жарить не успеваю )
+[00:02:44] [L] Yoonllx: ладно я пойду
+[00:02:50] vitask issued server command: /tppos -1333 72 -4512
+[00:02:51] [L] Yoonllx: поки.удачи
+[00:02:52] [L] EmptyAFK: ага )
+[00:02:53] [L] V_Toxa_V: Давай, удачи
+[00:02:54] Renko issued server command: /tpaccept
+[00:02:55] Yoonllx issued server command: /home
+[00:03:01] Mazuna issued server command: /we cui
+[00:03:04] ponyapapacurseda issued server command: /warp s
+[00:03:07] [L] Jorge: вот так
+[00:03:08] [L] Renko: так?
+[00:03:11] [L] Jorge: да
+[00:03:15] Mazuna issued server command: /home
+[00:03:16] [L] Renko: блин
+[00:03:25] Goggi007 issued server command: /home
+[00:03:25] [G] MrStrix: !кто знает что за зачарование офлим фламп?
+[00:03:28] [L] Renko: упала палка для заготовки
+[00:03:32] [L] Renko: ща
+[00:03:35] Jorge issued server command: /m MrStrix не работает она
+[00:03:37] ponyapapacurseda issued server command: /home
+[00:03:37] Yoonllx issued server command: /m V_Toxa_V можешь тп?
+[00:03:38] [L] Stern633: можно получше разобраться с модом opencomputers и накодить чо нибудь классное
+[00:03:50] MrStrix issued server command: /m Jorge понял
+[00:03:59] V_Toxa_V issued server command: /call Yoonllx
+[00:04:00] Yoonllx issued server command: /tpaccept
+[00:04:05] [L] Yoonllx: а как она работает
+[00:04:15] [L] vitask: Тащи саженцы дуба
+[00:04:16] Renko issued server command: /home
+[00:04:25] [L] Stern633: у нас их не так много
+[00:04:26] enioZz issued server command: /home
+[00:04:31] [L] Stern633: надо будет за ними сходить
+[00:04:32] [L] vitask: Сколько есть
+[00:04:34] MClike вышел
+[00:04:35] [L] V_Toxa_V: Тебе надо подключить стеклянный кабель к системе
+[00:04:52] mvp69 зашёл
+[00:04:52] [G] Slyyype: !плохой чар
+[00:04:54] [L] Yoonllx: блин не понимаю нихрена
+[00:04:55] mvp69 issued server command: /we cui
+[00:05:06] MClike зашёл
+[00:05:07] [L] V_Toxa_V: Есть мэ стеклянный кабель?
+[00:05:09] MClike issued server command: /we cui
+[00:05:22] vitask issued server command: /zset 3
+[00:05:24] [L] Stern633: два всего
+[00:05:26] Goggi007 issued server command: /warp s
+[00:05:26] [L] Yoonllx: высоковольтный есть
+[00:05:30] vitask issued server command: /zset 0
+[00:05:32] vitask issued server command: /zset 0
+[00:05:34] vitask issued server command: /zset 0
+[00:05:38] [L] V_Toxa_V: Не, не подойдет
+[00:05:39] [L] Stern633: я пойду за саженцами
+[00:05:44] Mazuna issued server command: /home
+[00:05:45] Legeboka issued server command: /home
+[00:05:48] ponyapapacurseda issued server command: /warp s
+[00:05:49] [L] Renko: не работает
+[00:05:56] Monolitoveth вышел
+[00:06:03] [L] V_Toxa_V: Тебе надо к контройлеру подключить кабель
+[00:06:03] Monolitoveth зашёл
+[00:06:05] Monolitoveth issued server command: /we cui
+[00:06:05] [L] Jorge: в рг впиши
+[00:06:10] [L] Jorge: я ща тп дам обратно ключ возьму
+[00:06:13] enioZz вышел
+[00:06:14] Jorge issued server command: /home
+[00:06:22] Jorge issued server command: /tpa Renko
+[00:06:24] [L] Yoonllx: ща
+[00:06:27] Renko issued server command: /tpaccept
+[00:06:32] Renko issued server command: /tpaccept
+[00:06:37] [L] Renko: ща
+[00:06:38] [L] Renko: сек
+[00:06:59] Renko issued server command: /rg addmember jorge
+[00:07:10] [L] Yoonllx: я ща
+[00:07:12] Yoonllx issued server command: /home
+[00:07:12] Renko issued server command: /rg addmember renko jorge
+[00:07:16] Yoonllx issued server command: /warp top
+[00:07:18] [L] Renko: все добавил
+[00:07:26] Yoonllx issued server command: /warp s
+[00:07:29] Legeboka issued server command: /warp one
+[00:07:36] MrDry issued server command: /feed
+[00:07:57] [L] Jorge: а емае
+[00:07:58] BlackBack issued server command: /warp h
+[00:08:04] [L] Renko: ?
+[00:08:04] Yoonllx issued server command: /
+[00:08:11] [L] Jorge: Электрический
+[00:08:12] Yoonllx issued server command: /home
+[00:08:17] [L] Jorge: кинетик генератор нужен
+[00:08:19] [L] Jorge: я уже сплю
+[00:08:20] [L] Jorge: (
+[00:08:22] [L] Jorge: затупил
+[00:08:27] Yoonllx issued server command: /warp top
+[00:08:32] [L] Renko: продается где нибудь?
+[00:08:33] Yoonllx issued server command: /home
+[00:08:40] [L] Jorge: ща принесу жди
+[00:08:41] Jorge issued server command: /home
+[00:09:10] ponyapapacurseda issued server command: /home
+[00:09:25] ponyapapacurseda issued server command: /warp mining
+[00:09:27] ponyapapacurseda issued server command: /we cui
+[00:09:28] Renko issued server command: /home
+[00:09:31] ponyapapacurseda issued server command: /rtp
+[00:09:33] Stern633 issued server command: /warp one
+[00:09:50] Legeboka issued server command: /home
+[00:09:54] [L] Yoonllx: шо дальше
+[00:10:03] Big_Rusian_Boss зашёл
+[00:10:05] [L] V_Toxa_V: Снеси мониторы
+[00:10:09] GADJIK_H зашёл
+[00:10:10] [L] Yoonllx: буром?
+[00:10:15] GADJIK_H issued server command: /we cui
+[00:10:16] Big_Rusian_Boss issued server command: /we cui
+[00:10:18] GADJIK_H issued server command: /home
+[00:10:18] [L] V_Toxa_V: Рукой можешь
+[00:10:28] Jorge issued server command: /tpa Renko
+[00:10:34] Renko issued server command: /tpaccept
+[00:10:36] Big_Rusian_Boss issued server command: /home
+[00:10:36] Renko issued server command: /tpaccept
+[00:10:36] [G] GADJIK_H: !эммм
+[00:10:38] Big_Rusian_Boss issued server command: /we cui
+[00:10:42] [G] GADJIK_H: !я что то не понял
+[00:10:44] [G] Big_Rusian_Boss: !интересно
+[00:10:47] [G] BlackBack: !что
+[00:10:49] [G] GADJIK_H: !где мой рг
+[00:10:53] [L] Jorge: подключай
+[00:10:55] [G] zxcursed1337: !А ты с кем живешь?)
+[00:10:56] [L] V_Toxa_V: Там смотри, те 3 который я тебе кинул, они нужны
+[00:10:59] [G] GADJIK_H: !и еще мой смурф забанили
+[00:11:01] [G] Big_Rusian_Boss: !блек
+[00:11:03] [G] zxcursed1337: !Оп
+[00:11:05] [G] BlackBack: !а
+[00:11:05] [G] zxcursed1337: !Мазун, 2.3)
+[00:11:06] [G] Big_Rusian_Boss: !значит на рпг не выводишь деревья
+[00:11:07] [G] GADJIK_H: !якобы я хранил дюпнутые предметы
+[00:11:14] [G] zxcursed1337: !Закрой человека
+[00:11:14] [G] Big_Rusian_Boss: !а тут сидишь
+[00:11:15] [L] V_Toxa_V: Ставь кабель к контроллеру
+[00:11:17] [G] Big_Rusian_Boss: !фу такой быть
+[00:11:19] zxcursed1337 issued server command: /warp one
+[00:11:19] [G] BlackBack: !там всё выведено
+[00:11:24] [G] Big_Rusian_Boss: !61к материи
+[00:11:24] [G] GADJIK_H: ! я тут играю уже месять, что за дела
+[00:11:25] [G] Big_Rusian_Boss: !хахаах
+[00:11:29] [G] Slyyype: !Босс ку
+[00:11:30] [G] GADJIK_H: !все своим путем добывал
+[00:11:31] [L] Yoonllx: сюда?
+[00:11:33] [G] Big_Rusian_Boss: !дарова
+[00:11:35] [G] BlackBack: !я важными делами тут занимаюсь
+[00:11:38] [G] GADJIK_H: !61 к материи не было у меня
+[00:11:40] [G] Big_Rusian_Boss: !слупи
+[00:11:42] [G] Big_Rusian_Boss: !шо тут
+[00:11:42] [L] V_Toxa_V: Да, главное чтобы подключены были
+[00:11:45] [G] Slyyype: !м
+[00:11:46] [L] Renko: нет не робит
+[00:11:49] [L] Jorge: сюда
+[00:11:52] [L] Jorge: положи катушки
+[00:11:52] [G] Big_Rusian_Boss: !я так понял, соперников у нас больше нет снова?
+[00:11:53] GADJIK_H issued server command: /playtime
+[00:12:00] [L] V_Toxa_V: Можешь ниже вывести
+[00:12:01] [L] vitask: Работает
+[00:12:01] [L] Jorge: дай мне
+[00:12:02] [L] Yoonllx: ц\
+[00:12:02] [G] Slyyype: !получается так
+[00:12:04] [L] V_Toxa_V: Ну как удобно
+[00:12:06] [G] Big_Rusian_Boss: !тазашо
+[00:12:07] [G] GADJIK_H: !я для чего тут 266 часов наиграл
+[00:12:07] [L] Jorge: катушки
+[00:12:09] [L] Jorge: скинь
+[00:12:09] [G] Slyyype: !дарк вообще распался
+[00:12:11] [G] GADJIK_H: !чтобы мой рг сетнули?
+[00:12:12] [L] vitask: Ну по крайней мере сеятель
+[00:12:15] [L] V_Toxa_V: А на них поверх мониторы
+[00:12:16] Big_Rusian_Boss issued server command: /m Legeboka тут?
+[00:12:20] Big_Rusian_Boss issued server command: /r а де плутоний
+[00:12:22] [G] Big_Rusian_Boss: !а чего
+[00:12:22] [L] V_Toxa_V: Вот
+[00:12:24] [G] Big_Rusian_Boss: !лол
+[00:12:26] Big_Rusian_Boss issued server command: /warp info dark
+[00:12:27] [G] Slyyype: !наш варп чисто для игроков
+[00:12:30] zxcursed1337 issued server command: /home
+[00:12:34] [G] Slyyype: !да там видмо доверия не было
+[00:12:36] [L] V_Toxa_V: Теперь что надо засунуть туда их
+[00:12:37] Big_Rusian_Boss issued server command: /warp list- p
+[00:12:38] Mazuna issued server command: /home
+[00:12:38] [L] Yoonllx: спс !!!
+[00:12:40] Big_Rusian_Boss issued server command: /warp list -p
+[00:12:40] [G] Slyyype: !вот и все думали что гриф
+[00:12:46] Big_Rusian_Boss issued server command: /warp info one
+[00:12:50] [L] Jorge: ща
+[00:12:51] Jorge issued server command: /home
+[00:12:53] [G] GADJIK_H: !-_-
+[00:12:53] Big_Rusian_Boss issued server command: /warp info s
+[00:12:56] [G] GADJIK_H: !офигенный серв
+[00:12:59] [L] V_Toxa_V: И все что в терменале, будет отображаться на экранах
+[00:13:01] [G] GADJIK_H: !только сегодня хвалил его
+[00:13:09] [G] zxcursed1337: !Ты с кем развивался?
+[00:13:13] [G] GADJIK_H: !сам
+[00:13:17] [G] GADJIK_H: !смурф акк сделал
+[00:13:21] [G] GADJIK_H: !афк стоял на нем
+[00:13:24] [L] V_Toxa_V: Ну как то так
+[00:13:25] Mazuna вышел
+[00:13:34] Jorge issued server command: /tpa Renko
+[00:13:35] [G] Slyyype: !Так тут подкинули квг значит, как с наркотой)
+[00:13:37] Renko issued server command: /tpaccept
+[00:13:43] [G] GADJIK_H: !у меня были квг
+[00:13:44] [G] zxcursed1337: !:D в приобретатель чисто закинули)
+[00:13:44] [G] Big_Rusian_Boss: !странное сравнение
+[00:13:45] [G] GADJIK_H: !но мои
+[00:13:45] [G] Goggi007: !А зачем смурф?
+[00:13:45] [L] V_Toxa_V: Во, красота
+[00:13:48] [L] Jorge: rkflb
+[00:13:48] [L] Yoonllx: )
+[00:13:49] [L] Jorge: клади
+[00:13:54] Stern633 issued server command: /home
+[00:13:56] [L] V_Toxa_V: Ну схему ты понял(
+[00:13:56] [G] GADJIK_H: !чтобы афк стоял, пока я бегал везде
+[00:13:57] [G] Big_Rusian_Boss: !странно что наши не тронули
+[00:13:57] [L] V_Toxa_V: )
+[00:13:58] [L] Renko: все
+[00:13:59] [G] Big_Rusian_Boss: !аха
+[00:14:02] [L] Renko: заработало
+[00:14:03] [L] Jorge: туплу ппц
+[00:14:05] [G] GADJIK_H: !16 квг собственных было
+[00:14:06] [G] GADJIK_H: !класс
+[00:14:08] [L] Jorge: ночь просто уже(
+[00:14:08] [L] Big_Rusian_Boss: лежебока, ало
+[00:14:08] [L] Renko: спасибо
+[00:14:11] [L] Jorge: да нет проблем)
+[00:14:12] [G] GADJIK_H: !такой рг выстраивал
+[00:14:14] [L] Jorge: удачи
+[00:14:15] [L] vitask: Кидай мне
+[00:14:15] [G] Slyyype: !Да Вас видмо бессмыслено трогать
+[00:14:15] [L] V_Toxa_V: Главное чтобы к контроллеру было подключенно
+[00:14:16] [L] Stern633: relf cf;tyws&
+[00:14:18] Jorge issued server command: /home
+[00:14:19] [L] Renko: капец токарный станок а проблем блин
+[00:14:20] [G] Big_Rusian_Boss: !чего?)
+[00:14:21] [L] Yoonllx: пон
+[00:14:21] [L] Stern633: куда саженцы
+[00:14:22] [G] Slyyype: !Вы ничего не сделали)
+[00:14:24] [G] Goggi007: !Да как вы 16 квг делаете не пойму...
+[00:14:31] [G] Big_Rusian_Boss: !даже ты знаешь что мы хорошие
+[00:14:36] [G] GADJIK_H: !шахта, все время афк, работа
+[00:14:36] [L] Stern633: но их не хватает
+[00:14:37] [L] V_Toxa_V: Нифига у тебя территория)
+[00:14:44] [G] zxcursed1337: !У кого есть саженцы дуба? куплю
+[00:14:45] [L] Yoonllx: мелкая)
+[00:14:46] [G] GADJIK_H: !я тут с 2016 года играю, знаю что да как
+[00:14:54] [G] Jorge: ! GADJIK_H скок часов отыграл?в этом вайпе
+[00:14:55] [L] vitask: Он листья сломает и получит еще саженцы
+[00:15:00] zxcursed1337 issued server command: /playtime GADJIK_H
+[00:15:00] [G] Goggi007: !Я за месяц 8 панель сделал и кипятком извините радуюсь.
+[00:15:01] [L] vitask: Пихай в него все саженцы
+[00:15:01] [L] Yoonllx: мне нужны красные блоки
+[00:15:02] [G] Big_Rusian_Boss: ! GADJIK_H
+[00:15:02] [G] GADJIK_H: !266
+[00:15:03] [G] zxcursed1337: !193 он отыграю
+[00:15:04] [L] Yoonllx: какие то
+[00:15:07] [L] Stern633: хорошо тогда
+[00:15:08] [L] Yoonllx: что бы дом переделать
+[00:15:12] [L] Yoonllx: красиво ..
+[00:15:13] [L] Stern633: сажать?
+[00:15:15] [G] GADJIK_H: !ну +афк еще
+[00:15:17] [G] Big_Rusian_Boss: !скинь стату ГМу, если всё сам накопал
+[00:15:18] [G] GADJIK_H: !+2 акк
+[00:15:20] [L] vitask: В него суй
+[00:15:20] [G] Big_Rusian_Boss: !вернут
+[00:15:26] [L] Stern633: классно)
+[00:15:27] MrStrix вышел
+[00:15:32] [G] Big_Rusian_Boss: !напиши по поводу этого на форум
+[00:15:32] [L] Stern633: и на этом все??
+[00:15:35] Big_Rusian_Boss issued server command: /call GADJIK_H
+[00:15:37] [L] vitask: Ждем
+[00:15:38] [L] V_Toxa_V: Ты еще можешь сделать чтобы с сундука предметы сразу в систему заходили
+[00:15:38] GADJIK_H issued server command: /tpaccept
+[00:15:39] zxcursed1337 issued server command: /home
+[00:15:43] [L] Yoonllx: ка
+[00:15:44] TrullaPOP зашёл
+[00:15:45] [L] Yoonllx: к
+[00:15:46] [L] vitask: Должен сам спилить как вырастет
+[00:15:48] [L] Big_Rusian_Boss: daje tak
+[00:15:55] TrullaPOP issued server command: /we cui
+[00:16:00] mvp69 issued server command: /playtaime GADJIK_H
+[00:16:02] [L] Big_Rusian_Boss: ну смотри
+[00:16:03] [L] Big_Rusian_Boss: старик
+[00:16:05] [L] GADJIK_H: такой рг был...
+[00:16:08] [L] Stern633: да не, а почему всю территорию не заполняет
+[00:16:08] [L] Big_Rusian_Boss: напиши на форум, по поводу этого
+[00:16:11] mvp69 issued server command: /playtime GADJIK_H
+[00:16:11] [L] Big_Rusian_Boss: теперь не лагает))
+[00:16:13] [L] vitask: Сейчас подключу к мэ системе
+[00:16:13] [L] V_Toxa_V: Пойдем покажу как у меня, можешь так же сделать
+[00:16:14] [G] Slyyype: !aga ещё доказать надо
+[00:16:18] [L] GADJIK_H: да не лагало и так
+[00:16:20] [G] Big_Rusian_Boss: !ну, стату скинул
+[00:16:22] Yoonllx issued server command: /tpa V_Toxa_V
+[00:16:25] [L] V_Toxa_V: Стоишь в афк а вещи сами копяться
+[00:16:25] [G] Big_Rusian_Boss: !сойдётся-вернут квг
+[00:16:27] V_Toxa_V issued server command: /home
+[00:16:27] [L] GADJIK_H: а стата причем
+[00:16:29] [G] Big_Rusian_Boss: !ну, по желанию гма кнш
+[00:16:29] V_Toxa_V issued server command: /tpaccept
+[00:16:34] [L] Big_Rusian_Boss: ну, покажи скока ты жел. руды вскопал
+[00:16:36] [G] Slyyype: !xD
+[00:16:37] MrDry issued server command: /feed
+[00:16:39] [G] GADJIK_H: !я часть ресов выкупал
+[00:16:45] [L] GADJIK_H: они как это проверят?
+[00:16:51] [L] Big_Rusian_Boss: ты скинь стату
+[00:16:56] EmptyAFK issued server command: /spawn
+[00:16:56] [L] GADJIK_H: а где она
+[00:16:58] EmptyAFK issued server command: /we cui
+[00:16:58] [L] Big_Rusian_Boss: ESC статистика блоки и там жел. руда
+[00:17:00] Renko issued server command: /mpcaseshop
+[00:17:01] Renko issued server command: /mpcaseview 10
+[00:17:02] [L] Big_Rusian_Boss: скока у тебя её?
+[00:17:03] Renko issued server command: /buycase 10
+[00:17:07] [G] vitask: !jorge почему сеятель все поле не заполняет, а только 3 на 3? ЧТо надо сделать?
+[00:17:08] [L] V_Toxa_V: Вот подключен к сундуку
+[00:17:08] [G] MrDry: !Чем комбайн поворачивать?
+[00:17:08] [G] Slyyype: ! Big_Rusian_Boss а ты где пропадал?
+[00:17:11] [L] Yoonllx: прикольно
+[00:17:16] [L] V_Toxa_V: Снизу
+[00:17:16] [G] Jorge: ! vitask мед улучшение положил?
+[00:17:21] Goggi007 issued server command: /home
+[00:17:24] [G] Big_Rusian_Boss: ! vitask, улучшение медь вставь в сеятель
+[00:17:25] [L] V_Toxa_V: И идет кабель в систему
+[00:17:29] [L] Yoonllx: кхм можешь мне помочь? красоту дома сделать? пхпх если можно?
+[00:17:32] [G] vitask: !А, сейчас сделаю
+[00:17:33] [L] GADJIK_H: а если я из материи крафтил руды
+[00:17:35] [L] GADJIK_H: то что
+[00:17:39] [L] Yoonllx: у тебя тут все красиво
+[00:17:40] [G] vitask: !И в комбайн тоже?
+[00:17:43] [L] GADJIK_H: 67к железа
+[00:17:44] [G] Jorge: ! угу
+[00:17:46] [G] Big_Rusian_Boss: ! слупи, мы на тмрпг забираем теперь
+[00:17:47] [G] Jorge: ! во все надо
+[00:17:47] [L] GADJIK_H: +рабы были
+[00:17:49] [L] Yoonllx: у меня коробка какая то
+[00:17:51] [L] V_Toxa_V: Так я же не в привате ведь
+[00:17:53] [L] vitask: Давай делать, Дима
+[00:17:57] [G] Big_Rusian_Boss: !как мейв квг отдал твисту энд компани
+[00:18:00] mvp69 вышел
+[00:18:01] [L] Big_Rusian_Boss: ну
+[00:18:03] [L] Yoonllx: ну добавлю потом удалю если шо
+[00:18:04] TrullaPOP issued server command: /warp world
+[00:18:05] [L] Big_Rusian_Boss: не докажешть тогда
+[00:18:05] TrullaPOP issued server command: /we cui
+[00:18:09] [L] Big_Rusian_Boss: было бы тыщ 600 руды
+[00:18:11] [L] GADJIK_H: попробуем
+[00:18:14] Yoonllx issued server command: /rg removemember V_Toxa_V -n 749b9823-4058-4a2b-8c64-8c71c8840218
+[00:18:14] [L] Big_Rusian_Boss: попробуй
+[00:18:16] Yoonllx issued server command: /rg removemember V_Toxa_V -n a2823480-d82d-400f-913c-0feb18d6873e
+[00:18:17] [L] Big_Rusian_Boss: скинь на форум
+[00:18:19] TrullaPOP умер (FALL)
+[00:18:19] [G] Slyyype: !видал ток там ggwin~a, заходил но блоки черпез раз ломаются, не могу играть(
+[00:18:22] Yoonllx issued server command: /rg removemember hs -n 59004dff-020a-3ef1-8b6c-4715642ae49e
+[00:18:24] [L] V_Toxa_V: Я же могу быть в одном привате, этот оставлять не буду
+[00:18:26] TrullaPOP issued server command: /we cui
+[00:18:27] TrullaPOP вышел
+[00:18:28] [G] Big_Rusian_Boss: !это мы)
+[00:18:33] [G] Big_Rusian_Boss: !сферы открываем
+[00:18:35] [L] Yoonllx: всм
+[00:18:37] [G] Big_Rusian_Boss: !16х16х16 копать интересно
+[00:18:40] [L] Yoonllx: так вроде нет там можно
+[00:18:40] [L] Stern633: давай
+[00:18:44] enioZz зашёл
+[00:18:46] [L] Yoonllx: я добавлял
+[00:18:47] [G] Slyyype: !Хех
+[00:18:50] [L] V_Toxa_V: Ну да, дом нужен большой, механизмов много
+[00:18:51] [L] Yoonllx: уже
+[00:18:53] enioZz issued server command: /we cui
+[00:19:00] [L] Big_Rusian_Boss: хм
+[00:19:03] [G] Goggi007: ! ЧО скока на скока?????
+[00:19:03] [L] Yoonllx: я добавлял людей
+[00:19:07] [G] Big_Rusian_Boss: !и бедрок ломает
+[00:19:09] Goggi007 issued server command: /warp s
+[00:19:11] [G] Big_Rusian_Boss: !это аварити, детка
+[00:19:11] [L] GADJIK_H: а в какой раздел писать
+[00:19:13] [G] Big_Rusian_Boss: !Сам в шоке
+[00:19:16] TrullaPOP зашёл
+[00:19:18] [G] Big_Rusian_Boss: !ссался кипятком
+[00:19:18] TrullaPOP issued server command: /we cui
+[00:19:18] enioZz issued server command: /warp s
+[00:19:19] [L] GADJIK_H: об апелляции бана
+[00:19:20] [L] V_Toxa_V: Ну ты добавишь, меня, а отсюда я пропаду, потом заного приватить
+[00:19:21] [L] Big_Rusian_Boss: мммм
+[00:19:23] [L] V_Toxa_V: У меня просто 4 привата
+[00:19:24] [G] Big_Rusian_Boss: !Слупи
+[00:19:28] [G] Slyyype: !м
+[00:19:28] [G] Big_Rusian_Boss: !челу сетнули хату, не забанили
+[00:19:32] [G] Big_Rusian_Boss: !куда писать на форум
+[00:19:32] [L] Yoonllx: да блин...
+[00:19:34] [G] Big_Rusian_Boss: !меняли чёт?
+[00:19:36] [L] V_Toxa_V: По забору
+[00:19:41] [G] GADJIK_H: !забанили смурф
+[00:19:42] TrullaPOP issued server command: /warp world
+[00:19:44] [G] GADJIK_H: !на три дня
+[00:19:44] TrullaPOP issued server command: /we cui
+[00:19:46] [G] Big_Rusian_Boss: !:D
+[00:19:47] [L] Yoonllx: (
+[00:19:48] [G] Big_Rusian_Boss: !орнул
+[00:19:50] [G] Slyyype: !xD
+[00:19:52] [G] zxcursed1337: !а чу основу не забанили?
+[00:19:56] [G] GADJIK_H: !хз
+[00:19:56] [L] Yoonllx: ладно давай\
+[00:19:58] [L] Yoonllx: пока
+[00:19:59] Yoonllx issued server command: /home
+[00:20:01] [G] GADJIK_H: !онлайн на смурфе был
+[00:20:02] linbergusha зашёл
+[00:20:08] [G] Big_Rusian_Boss: !ну по идее обжалование блокировок...
+[00:20:08] linbergusha issued server command: /we cui
+[00:20:13] [G] Big_Rusian_Boss: !или жалоб на модерацию
+[00:20:14] linbergusha issued server command: /home
+[00:20:15] Renko issued server command: /mpcaseshop
+[00:20:17] Renko issued server command: /mpcaseview 10
+[00:20:18] Renko issued server command: /rollcase 10
+[00:20:18] [G] Big_Rusian_Boss: !что-то из этого попробуй
+[00:20:22] enioZz issued server command: /home
+[00:20:32] [G] Big_Rusian_Boss: !желательно с забаненного аккаы
+[00:20:32] Renko issued server command: /mpcaseview 10
+[00:20:34] Renko issued server command: /rollcase 10
+[00:20:36] linbergusha issued server command: /mpcaseshop
+[00:20:38] TrullaPOP умер (FALL)
+[00:20:38] AlkashMestniy зашёл
+[00:20:40] [G] Big_Rusian_Boss: !даже приятно сюда зайти
+[00:20:41] TrullaPOP issued server command: /we cui
+[00:20:44] [G] Big_Rusian_Boss: !сразу и фпс есть
+[00:20:45] TrullaPOP issued server command: /warp world
+[00:20:46] AlkashMestniy issued server command: /we cui
+[00:20:46] TrullaPOP issued server command: /we cui
+[00:20:47] [G] Big_Rusian_Boss: !а не в 4 фпс бегаешь
+[00:20:48] TrullaPOP issued server command: /rtp
+[00:20:49] [G] Slyyype: !90% нафиг пошлют думаю(
+[00:20:50] [G] Yoonllx: !У кого есть глина
+[00:20:56] [L] Stern633: все
+[00:20:57] [G] Big_Rusian_Boss: !ну по факту думаю
+[00:21:01] [G] Big_Rusian_Boss: !он не сможет доказать
+[00:21:03] [G] Big_Rusian_Boss: !Стата маленькая
+[00:21:05] mvp69 зашёл
+[00:21:06] [G] BlackBack: !и ещё спрашиваешь почему я тут(
+[00:21:08] mvp69 issued server command: /we cui
+[00:21:10] Yoonllx issued server command: /rtp
+[00:21:10] [G] Jorge: ! GADJIK_H тебя сплали с дюпами
+[00:21:13] [G] Big_Rusian_Boss: !70к руды
+[00:21:15] Big_Rusian_Boss issued server command: /home
+[00:21:22] [G] Jorge: ! у тебя больше стака квг в логах
+[00:21:24] [G] Big_Rusian_Boss: !так ты када была, не так лагало
+[00:21:24] Yoonllx issued server command: /rtp
+[00:21:25] Yoonllx issued server command: /rtp
+[00:21:32] Yoonllx issued server command: /m V_Toxa_V есть глина?
+[00:21:34] [G] Jorge: ! поднято
+[00:21:34] Yoonllx issued server command: /rtp
+[00:21:35] [L] vitask: Балдеж
+[00:21:48] [L] Stern633: ага)
+[00:21:56] EmptyAFK вышел
+[00:22:04] [G] Slyyype: !босс какой варп на рпг?
+[00:22:07] [L] Stern633: больше нужно саженцев
+[00:22:08] [G] Big_Rusian_Boss: !one))
+[00:22:09] enioZz issued server command: /waro s
+[00:22:11] [G] Slyyype: !)
+[00:22:11] enioZz issued server command: /warps
+[00:22:12] enioZz issued server command: /warp s
+[00:22:13] [G] Slyyype: !чекну
+[00:22:15] [L] vitask: Запитал к мэ системе. Теперь сама система поставляет ему саженцы и забирать древесину
+[00:22:21] [G] Big_Rusian_Boss: !харашо)
+[00:22:25] [L] Stern633: прекрасно)
+[00:22:26] [G] Big_Rusian_Boss: !была б там гонка по квг
+[00:22:32] [G] Big_Rusian_Boss: !было бы весело
+[00:22:35] AlkashMestniy issued server command: /рщьу
+[00:22:35] AlkashMestniy issued server command: /home
+[00:22:36] [G] Slyyype: !не сомневаюсь
+[00:22:36] AlkashMestniy issued server command: /warp one
+[00:22:41] [G] Slyyype: !что взяли бы топ 1
+[00:22:44] AlkashMestniy issued server command: /money
+[00:22:45] [G] Slyyype: !:)
+[00:22:48] [L] AlkashMestniy: 30
+[00:22:50] [G] Big_Rusian_Boss: !ихихих
+[00:22:51] [L] AlkashMestniy: 12
+[00:22:52] Big_Rusian_Boss issued server command: /money top
+[00:22:55] [L] vitask: Не понял
+[00:23:01] [L] vitask: Воо
+[00:23:03] [L] AlkashMestniy: 1
+[00:23:09] [L] AlkashMestniy: 1
+[00:23:14] [L] AlkashMestniy: 1
+[00:23:16] AlkashMestniy issued server command: /home
+[00:23:18] [G] Big_Rusian_Boss: !де лежебока
+[00:23:22] [G] Legeboka: !тут
+[00:23:27] [L] Stern633: импорт не настроен
+[00:23:27] [G] Big_Rusian_Boss: !де плутоний украл
+[00:23:28] Big_Rusian_Boss issued server command: /home
+[00:23:31] [G] Big_Rusian_Boss: !не воруй
+[00:23:38] Legeboka issued server command: /home
+[00:23:39] [L] vitask: Я тупой
+[00:23:43] [L] vitask: Он же из дырки стреляет
+[00:23:45] [L] Big_Rusian_Boss: де плутоний
+[00:23:45] [L] Big_Rusian_Boss: вор
+[00:23:50] [L] Big_Rusian_Boss: мильярд должно быть
+[00:23:52] AlkashMestniy issued server command: /рщьу
+[00:23:52] AlkashMestniy issued server command: /home
+[00:23:58] [G] Slyyype: !Жулик не воруй!
+[00:24:00] [G] Slyyype: !xD
+[00:24:02] [G] Big_Rusian_Boss: !:D
+[00:24:03] kirito3 вышел
+[00:24:09] [L] Legeboka: ща будет
+[00:24:10] [L] Legeboka: я убрал
+[00:24:12] [L] Legeboka: стержни
+[00:24:15] [L] Big_Rusian_Boss: зочим
+[00:24:23] [L] Legeboka: печать скрафтить
+[00:24:29] [L] Big_Rusian_Boss: 360 штук?
+[00:24:30] Goggi007 issued server command: /fly
+[00:24:32] Goggi007 issued server command: /fly
+[00:24:33] [L] Legeboka: 5
+[00:24:34] [L] vitask: Опять стоит
+[00:24:38] [L] Stern633: ага
+[00:24:40] [L] vitask: Слыш, работай
+[00:24:42] [L] Big_Rusian_Boss: спасибо папаша
+[00:25:00] [L] Stern633: один блок сломал и все
+[00:25:01] [L] Big_Rusian_Boss: звучит иронично
+[00:25:03] [L] Big_Rusian_Boss: Паша...
+[00:25:04] Yoonllx issued server command: /рщьу
+[00:25:04] Yoonllx issued server command: /home
+[00:25:06] Goggi007 issued server command: /home
+[00:25:06] [L] Big_Rusian_Boss: папаша...
+[00:25:09] Yoonllx issued server command: /рщьу
+[00:25:09] Yoonllx issued server command: /home
+[00:25:10] MrDry issued server command: /feed
+[00:25:11] [L] Big_Rusian_Boss: падай дс
+[00:25:11] Yoonllx issued server command: /рщьу
+[00:25:11] Yoonllx issued server command: /home
+[00:25:13] Yoonllx issued server command: /ыфзцт
+[00:25:13] Yoonllx issued server command: /sapwn
+[00:25:15] Yoonllx issued server command: /ызфцт
+[00:25:15] Yoonllx issued server command: /spawn
+[00:25:22] Yoonllx issued server command: /we cui
+[00:25:25] Yoonllx issued server command: /рщьу
+[00:25:25] Yoonllx issued server command: /home
+[00:25:27] Goggi007 issued server command: /warp s
+[00:25:31] [L] vitask: Понял, не любит мэ систему
+[00:25:31] Yoonllx issued server command: /we cui
+[00:25:41] zxcursed1337 issued server command: /home
+[00:25:49] BlackBack issued server command: /m Big_Rusian_Boss тепнись, обзавидуешься))
+[00:25:59] AlkashMestniy issued server command: /рщьу
+[00:25:59] AlkashMestniy issued server command: /home
+[00:26:03] [L] Stern633: отдай ему саженцы
+[00:26:05] [L] vitask: Пробуем так
+[00:26:22] Renko issued server command: /warp mining
+[00:26:24] Big_Rusian_Boss issued server command: /call BlackBack
+[00:26:24] enioZz issued server command: /home
+[00:26:25] Renko issued server command: /we cui
+[00:26:27] BlackBack issued server command: /tpaccept
+[00:26:38] [L] BlackBack: слева это твоя
+[00:26:44] [L] BlackBack: справа я сегодня сделал
+[00:26:46] [L] Big_Rusian_Boss: а с чем ты
+[00:26:56] [L] BlackBack: высоты прибавила в генах
+[00:27:00] [L] Big_Rusian_Boss: а
+[00:27:01] [L] Big_Rusian_Boss: мышь
+[00:27:01] vitask issued server command: /r Jorge чем вы там шлам убирали?
+[00:27:04] [L] BlackBack: нет
+[00:27:06] [L] BlackBack: кот
+[00:27:07] [L] Big_Rusian_Boss: генетикс
+[00:27:08] [L] Big_Rusian_Boss: фу
+[00:27:13] [L] BlackBack: сам такой(
+[00:27:15] [L] Big_Rusian_Boss: кыця бабына
+[00:27:21] [L] Stern633: у него какое то позднее зажигание
+[00:27:21] linbergusha issued server command: /home
+[00:27:23] [L] Big_Rusian_Boss: дай гигантскую
+[00:27:26] [L] BlackBack: зацени домик
+[00:27:36] linbergusha issued server command: /warp shop
+[00:27:37] linbergusha issued server command: /we cui
+[00:27:38] [L] Big_Rusian_Boss: хайтек
+[00:27:39] [G] Yoonllx: !у кого есть красные блоки?
+[00:27:44] Yoonllx issued server command: /warp s
+[00:27:49] [L] Big_Rusian_Boss: стиль хайтек
+[00:27:51] [L] Big_Rusian_Boss: на хайтеке
+[00:27:54] [L] BlackBack: вхавха да)
+[00:27:57] BlackBack issued server command: /warp h
+[00:27:57] zxcursed1337 issued server command: /workbench
+[00:28:03] [G] Yoonllx: !у кого есть красные блоки? любые
+[00:28:04] enioZz issued server command: /home
+[00:28:08] [G] Slyyype: !НЕ СПАМЬ
+[00:28:10] [G] Slyyype: !ой
+[00:28:12] [G] Slyyype: !хахаха
+[00:28:13] [G] Yoonllx: !...
+[00:28:17] [G] zxcursed1337: !3.1 slyyype
+[00:28:17] [G] BlackBack: !не капсь)
+[00:28:18] [G] Yoonllx: !не ори на меня!!!
+[00:28:19] [G] zxcursed1337: !;D
+[00:28:20] [G] enioZz: ! в жизни так бывает
+[00:28:22] linbergusha issued server command: /home
+[00:28:23] linbergusha issued server command: /we cui
+[00:28:24] [G] Big_Rusian_Boss: !:D
+[00:28:26] [G] Slyyype: !извини
+[00:28:29] [G] Yoonllx: !пзыахы
+[00:28:31] enioZz issued server command: /home
+[00:28:33] [G] Yoonllx: !страшно аж
+[00:28:36] [G] zxcursed1337: !выдай сам себе наказание)
+[00:28:37] [G] zxcursed1337: !И ему 3.3
+[00:28:40] [L] BlackBack: где ты
+[00:28:40] [G] zxcursed1337: !по варну обоим)
+[00:28:41] [G] Yoonllx: !э
+[00:28:45] [G] Yoonllx: !стопэ
+[00:28:48] [G] Yoonllx: !это не спам
+[00:28:50] [L] BlackBack: биг
+[00:28:52] [L] Big_Rusian_Boss: а
+[00:28:53] zxcursed1337 issued server command: /workbench
+[00:28:55] [G] Yoonllx: !я добавил еще слово
+[00:28:59] [G] Yoonllx: !любые
+[00:29:02] [L] vitask: Дима, надо срочно черный краситель
+[00:29:03] [L] BlackBack: надо секвойю?
+[00:29:07] Yoonllx issued server command: /warp top
+[00:29:07] [G] Slyyype: !суть одна же
+[00:29:07] [L] Big_Rusian_Boss: лечу
+[00:29:11] TrullaPOP вышел
+[00:29:13] [G] Yoonllx: !блин
+[00:29:18] [L] Stern633: сколько?
+[00:29:19] [L] BlackBack: что ты мне дашь за этот попыт
+[00:29:22] [L] vitask: 1
+[00:29:24] [L] Big_Rusian_Boss: пагобе
+[00:29:47] [L] BlackBack: много хояешь
+[00:29:53] linbergusha issued server command: /home
+[00:30:03] enioZz issued server command: /warp s
+[00:30:11] [G] zxcursed1337: !Куплю апатит
+[00:30:12] [L] Big_Rusian_Boss: сча
+[00:30:14] Big_Rusian_Boss issued server command: /home
+[00:30:20] [L] Slyyype: шо
+[00:30:20] Big_Rusian_Boss issued server command: /call BlackBack
+[00:30:24] BlackBack issued server command: /tpaccept
+[00:30:25] [L] Slyyype: такая читая мэ
+[00:30:27] [L] Slyyype: абалдеть
+[00:30:28] [L] Slyyype: харош
+[00:30:30] enioZz issued server command: /home
+[00:30:30] Renko issued server command: /rtp
+[00:30:32] [L] BlackBack: вахваха
+[00:30:32] [L] Stern633: на варпе надо купить
+[00:30:33] Yoonllx issued server command: /home
+[00:30:34] [L] Big_Rusian_Boss: разбегаемся?
+[00:30:37] [L] Slyyype: у нас кала полно
+[00:30:38] [L] BlackBack: почему 10
+[00:30:38] [L] Stern633: ща
+[00:30:40] [L] vitask: Слетай купи
+[00:30:40] MrDry issued server command: /feed
+[00:30:49] Stern633 issued server command: /warp one
+[00:30:49] [L] Big_Rusian_Boss: давай так
+[00:30:50] Goggi007 issued server command: /home
+[00:30:54] [L] Big_Rusian_Boss: и расходмся
+[00:30:56] Renko issued server command: /rtp
+[00:30:59] [L] BlackBack: ну надо подумать
+[00:30:59] Slyyype issued server command: /яцфтв
+[00:30:59] Slyyype issued server command: /zwand
+[00:30:59] AlkashMestniy issued server command: /kit
+[00:31:03] AlkashMestniy issued server command: /kit tools
+[00:31:08] [L] Big_Rusian_Boss: последнее предложение
+[00:31:10] [L] BlackBack: хммм
+[00:31:16] AlkashMestniy issued server command: /рщьу
+[00:31:16] AlkashMestniy issued server command: /home
+[00:31:17] mvp69 вышел
+[00:31:18] [L] BlackBack: вахахв
+[00:31:22] [L] Big_Rusian_Boss: обворовала...
+[00:31:23] [G] zxcursed1337: !И дуба саженцы (:
+[00:31:29] MClike issued server command: /home
+[00:31:29] [L] BlackBack: ладно, по братски дам
+[00:31:31] MClike issued server command: /we cui
+[00:31:35] [L] Big_Rusian_Boss: ля на нее
+[00:31:36] AlkashMestniy issued server command: /лше
+[00:31:36] AlkashMestniy issued server command: /kit
+[00:31:40] AlkashMestniy issued server command: /kit jetpack
+[00:31:42] [G] Slyyype: !5 мин реклама
+[00:31:42] AlkashMestniy issued server command: /kit nano
+[00:31:43] [G] Slyyype: !ало
+[00:31:46] [G] Slyyype: !приём
+[00:31:49] [G] zxcursed1337: !А я ничего не рекламирую))
+[00:31:50] [G] Slyyype: !че там с деньгами
+[00:31:54] enioZz issued server command: /warp s
+[00:31:55] [G] Big_Rusian_Boss: !ну, слупи
+[00:31:57] [G] Goggi007: !Варн
+[00:31:59] [G] zxcursed1337: !xD
+[00:32:03] AlkashMestniy issued server command: /kit
+[00:32:05] [G] Big_Rusian_Boss: !он не указал же что КУПИТ дуб саженцы
+[00:32:05] AlkashMestniy issued server command: /kit res
+[00:32:08] [L] Big_Rusian_Boss: 16?
+[00:32:08] Stern633 issued server command: /цфкз top
+[00:32:08] Stern633 issued server command: /warp top
+[00:32:10] [L] Big_Rusian_Boss: 4х4?
+[00:32:13] [L] BlackBack: да
+[00:32:14] [G] Slyyype: !ну понятно же по факту что дополнил
+[00:32:14] [L] Big_Rusian_Boss: 3х3:
+[00:32:14] AlkashMestniy issued server command: /kit ultranano
+[00:32:16] [L] Big_Rusian_Boss: рял?
+[00:32:17] AlkashMestniy issued server command: /kit
+[00:32:18] [G] zxcursed1337: !Вот именно -_-
+[00:32:20] [L] Big_Rusian_Boss: ого
+[00:32:21] [L] BlackBack: 4на4
+[00:32:21] AlkashMestniy issued server command: /kit extraarmor
+[00:32:24] [G] zxcursed1337: !Кому понятно, а кому не понятно, ахахаха
+[00:32:26] [L] BlackBack: а че ты лумал
+[00:32:27] [G] Big_Rusian_Boss: !ну, факты факты
+[00:32:30] [G] Big_Rusian_Boss: !мы факты кидали вам
+[00:32:30] [G] Slyyype: !ладно
+[00:32:33] AlkashMestniy issued server command: /kit ultratools
+[00:32:34] [G] Slyyype: !срал я на всё
+[00:32:34] [L] BlackBack: просто так над ней пыхтела чтоли
+[00:32:34] [G] Big_Rusian_Boss: !но вам небыло интересно))
+[00:32:36] [G] Slyyype: !хаха
+[00:32:37] Stern633 issued server command: /рщьу
+[00:32:37] Stern633 issued server command: /home
+[00:32:38] [G] Big_Rusian_Boss: !а щас канеки взялся
+[00:32:39] [G] Big_Rusian_Boss: !и забанил
+[00:32:41] AlkashMestniy issued server command: /kit
+[00:32:43] [G] Slyyype: !xD
+[00:32:44] [L] Big_Rusian_Boss: ойе
+[00:32:45] AlkashMestniy issued server command: /kit beehive
+[00:32:45] [L] Big_Rusian_Boss: купила
+[00:32:47] [L] Big_Rusian_Boss: хахах
+[00:32:48] [L] Big_Rusian_Boss: бедняга
+[00:32:48] AlkashMestniy issued server command: /kit diamon
+[00:32:49] [L] Big_Rusian_Boss: щас
+[00:32:49] AlkashMestniy issued server command: /kit diamond
+[00:32:50] Big_Rusian_Boss issued server command: /home
+[00:32:51] [L] BlackBack: чел пытался за 80 эмов 1 саженец продавать
+[00:32:58] AlkashMestniy issued server command: /kit
+[00:32:58] Goggi007 issued server command: /warp s
+[00:33:11] [G] Big_Rusian_Boss: !ну вот
+[00:33:16] MClike issued server command: /warp s
+[00:33:25] Stern633 issued server command: /home
+[00:33:31] [L] vitask: Воооо
+[00:33:35] [G] Slyyype: !привычка уже появилась
+[00:33:35] [L] vitask: Заработало как надо
+[00:33:40] enioZz issued server command: /home
+[00:33:44] [G] Big_Rusian_Boss: !видишь босса, сразу банишь?
+[00:33:45] [L] Stern633: классно)
+[00:33:46] [G] Slyyype: !сложно убрать)
+[00:33:47] [L] vitask: Поздравляю с бесконечным дубовым фармом
+[00:33:49] Big_Rusian_Boss issued server command: /kit start
+[00:33:57] [G] Slyyype: !да не вроде не такой уже агресив стал)
+[00:34:01] [G] Slyyype: !а то в начале
+[00:34:02] [L] Stern633: ага))))
+[00:34:03] [L] vitask: Мэ система сама в себя кладет саженцы
+[00:34:03] [G] Slyyype: !вообще
+[00:34:04] AlkashMestniy issued server command: /цфкз
+[00:34:04] AlkashMestniy issued server command: /warp
+[00:34:04] [L] vitask: Все
+[00:34:05] AlkashMestniy issued server command: /warp one
+[00:34:12] [L] vitask: Продолжаем работать с металлами
+[00:34:13] [G] Big_Rusian_Boss: !а что вначале?)
+[00:34:14] [G] Slyyype: !ну лично моё мнение
+[00:34:15] enioZz issued server command: /warp s
+[00:34:18] AlkashMestniy issued server command: /home
+[00:34:19] [G] Big_Rusian_Boss: !ну, мейв вас настроил
+[00:34:26] [G] Big_Rusian_Boss: !сам ушёл, а мнение осталось
+[00:34:26] MClike issued server command: /warp mining
+[00:34:27] MrDry issued server command: /feed
+[00:34:29] MClike issued server command: /we cui
+[00:34:30] [G] Slyyype: !лады
+[00:34:31] [G] Big_Rusian_Boss: !ведь вы не знаете, почему мы с ним так
+[00:34:32] linbergusha issued server command: /уфе
+[00:34:32] linbergusha issued server command: /eat
+[00:34:33] MClike issued server command: /rtp
+[00:34:40] [G] Slyyype: !Да он
+[00:34:42] [G] Big_Rusian_Boss: !у кого дк топор есть?
+[00:34:43] [G] Slyyype: !сам знаешь
+[00:34:45] [G] Slyyype: !ахъъаъ
+[00:34:48] [G] Big_Rusian_Boss: !ну вот
+[00:34:51] [G] BlackBack: !у меня
+[00:34:52] Yoonllx issued server command: /warp top
+[00:34:54] [G] Big_Rusian_Boss: !тащи сюда
+[00:34:56] Slyyype issued server command: /god
+[00:34:58] BlackBack issued server command: /call Big_Rusian_Boss
+[00:35:00] Yoonllx issued server command: /home
+[00:35:01] enioZz issued server command: /home
+[00:35:01] [G] Big_Rusian_Boss: !яз абыл шо у меня нет терратопора
+[00:35:02] Legeboka вышел
+[00:35:03] Big_Rusian_Boss issued server command: /tpaccept
+[00:35:05] [L] Big_Rusian_Boss: :D
+[00:35:08] [L] Big_Rusian_Boss: зобыл
+[00:35:10] [L] Big_Rusian_Boss: ломаи
+[00:35:17] [L] BlackBack: бревна правда не соберутся
+[00:35:28] [G] enioZz: ! Куплю кирку виверны за жб
+[00:35:32] Goggi007 issued server command: /warp one
+[00:35:47] Big_Rusian_Boss issued server command: /co i
+[00:35:51] [G] Big_Rusian_Boss: !опана
+[00:35:54] [L] BlackBack: уже 36 саженцев упало
+[00:35:56] [G] Big_Rusian_Boss: !нашёл логи грифа нашей терры
+[00:36:01] [G] zxcursed1337: !:D
+[00:36:04] [G] Big_Rusian_Boss: !ладно
+[00:36:06] [G] Big_Rusian_Boss: !пусть живёт
+[00:36:10] [G] Big_Rusian_Boss: ! дестроук
+[00:36:16] [G] Slyyype: ! zxcursed1337 а че отказ то?\
+[00:36:22] ponyapapacurseda issued server command: /home
+[00:36:22] [G] Yoonllx: !а сколько самый дешевый донат стоит?
+[00:36:23] [G] Slyyype: !в стажопы не попал?
+[00:36:24] [G] zxcursed1337: !Там был момент один, решили уже
+[00:36:25] ponyapapacurseda issued server command: /we cui
+[00:36:27] MrDry issued server command: /home
+[00:36:29] Goggi007 issued server command: /home
+[00:36:35] [G] Big_Rusian_Boss: !айрон, Yoonllx
+[00:36:38] [G] Big_Rusian_Boss: !помоему 20р
+[00:36:38] [G] zxcursed1337: !Я оказывается, был в чсе проекта
+[00:36:42] [G] Big_Rusian_Boss: !шот такое
+[00:36:45] MrDry issued server command: /feed
+[00:36:45] [G] Slyyype: !xD
+[00:36:46] [G] Yoonllx: !окей
+[00:36:48] [G] zxcursed1337: !проектов* драйра
+[00:36:48] Yoonllx issued server command: /donate
+[00:36:48] [L] Big_Rusian_Boss: это ты собрала?
+[00:36:50] [G] zxcursed1337: !драйва*
+[00:36:52] linbergusha issued server command: /warp shop
+[00:36:53] [L] Big_Rusian_Boss: ворушка
+[00:36:53] linbergusha issued server command: /we cui
+[00:36:54] [L] BlackBack: лежало тут
+[00:36:54] [G] zxcursed1337: !В итоге пообщались тут там
+[00:36:57] [G] zxcursed1337: !Вытащили меня из чса
+[00:36:58] [G] Slyyype: !значит не судьба
+[00:37:02] linbergusha issued server command: /home
+[00:37:03] linbergusha issued server command: /we cui
+[00:37:03] [L] BlackBack: то етсь так ты со мной да
+[00:37:05] Big_Rusian_Boss issued server command: /co i
+[00:37:05] [G] Slyyype: !пхавхаха
+[00:37:07] [G] Slyyype: !лолд\
+[00:37:10] [L] Big_Rusian_Boss: а я любя
+[00:37:13] [G] zxcursed1337: !И теперь канеки смотрит на поведение))
+[00:37:17] [G] Big_Rusian_Boss: !ахах
+[00:37:19] [L] BlackBack: а я запомнила
+[00:37:19] [G] Big_Rusian_Boss: !интересно
+[00:37:22] enioZz issued server command: /warp mining
+[00:37:23] [L] Big_Rusian_Boss: а я любя(
+[00:37:23] enioZz issued server command: /we cui
+[00:37:24] [G] zxcursed1337: !тони одобрил, и ушел в отпуск, ахаха
+[00:37:24] enioZz issued server command: /home
+[00:37:26] [G] Slyyype: !не хулигань!!!
+[00:37:26] enioZz issued server command: /we cui
+[00:37:28] ponyapapacurseda issued server command: /warp s
+[00:37:31] [G] Slyyype: !а то по попе получишь
+[00:37:33] [G] Slyyype: !пхахах
+[00:37:36] [G] zxcursed1337: !Сама такая)
+[00:37:38] [G] Big_Rusian_Boss: !поэтому он щас нарушил 3.3?
+[00:37:40] [G] Big_Rusian_Boss: !))
+[00:37:44] Goggi007 issued server command: /warp s
+[00:37:47] [G] Slyyype: !хпахахахахах\
+[00:38:08] [G] Big_Rusian_Boss: !я вон, для себя, личный квест устроил
+[00:38:13] [G] Big_Rusian_Boss: !раз некого дёргать
+[00:38:17] [G] Big_Rusian_Boss: !То в принципе не нарушать
+[00:38:22] [L] Big_Rusian_Boss: де магнит...
+[00:38:26] [G] Slyyype: !тут пока Вас не было
+[00:38:26] [L] Big_Rusian_Boss: блеан
+[00:38:33] [G] Slyyype: !была реклама варпа в 4 сообщения
+[00:38:39] [G] Big_Rusian_Boss: !а...
+[00:38:40] linbergusha issued server command: /warp one
+[00:38:40] [G] Slyyype: !было в планаз 9
+[00:38:44] [G] Slyyype: !за раз
+[00:38:49] enioZz issued server command: /home
+[00:38:50] [G] Big_Rusian_Boss: !ну и всеравно не обогнал наш варп
+[00:38:55] enioZz issued server command: /home
+[00:39:02] linbergusha issued server command: /home
+[00:39:04] [G] Slyyype: !Да я в составе был
+[00:39:07] enioZz issued server command: /warp mining
+[00:39:08] enioZz issued server command: /we cui
+[00:39:11] enioZz issued server command: /rtp
+[00:39:12] zxcursed1337 issued server command: /home
+[00:39:13] [G] Slyyype: !приходилось вытаскивать челиков с вашего варпа
+[00:39:17] [G] Big_Rusian_Boss: !)))
+[00:39:20] Goggi007 issued server command: /home
+[00:39:31] [G] Big_Rusian_Boss: !на тмрпг у них комп бы сгорел
+[00:39:35] [G] Slyyype: !пххахахаха
+[00:39:36] [L] Big_Rusian_Boss: адавай\
+[00:39:43] linbergusha issued server command: /home
+[00:39:44] [G] Slyyype: !Был на варпах, да есть лаги
+[00:39:45] [L] Big_Rusian_Boss: *мурчит*
+[00:39:46] [G] Slyyype: !Загляну
+[00:39:48] MrDry issued server command: /feed
+[00:39:49] MrDry issued server command: /home
+[00:39:54] [G] Slyyype: !чекну че выдержит комп чи не
+[00:40:01] [G] Big_Rusian_Boss: !варп в 3 рг от осн. рг
+[00:40:06] [L] BlackBack: а я умею аахаха
+[00:40:08] [G] Big_Rusian_Boss: !можешь попробовать на осн. чанк стать
+[00:40:10] [L] Big_Rusian_Boss: ууу
+[00:40:12] [L] Big_Rusian_Boss: заходи в дс
+[00:40:14] [L] Big_Rusian_Boss: помурчи на ушко
+[00:40:17] [L] BlackBack: не
+[00:40:19] [G] Slyyype: !вокруг warp s полетай
+[00:40:21] [L] BlackBack: обойдешься
+[00:40:21] [L] Big_Rusian_Boss: ачо
+[00:40:22] [G] Slyyype: !абалдеешь
+[00:40:26] [G] Big_Rusian_Boss: !у нас также
+[00:40:28] [L] Big_Rusian_Boss: ну блиин
+[00:40:29] [L] Big_Rusian_Boss: давай(
+[00:40:31] [L] Big_Rusian_Boss: хоть в дс зайди
+[00:40:33] [G] Slyyype: !да вроде не так
+[00:40:34] [G] Slyyype: !рил
+[00:40:35] [G] Slyyype: !s
+[00:40:40] [L] BlackBack: время ночь
+[00:40:44] [G] Slyyype: !вообще капец
+[00:40:45] [G] Big_Rusian_Boss: !на тмрпг имею ввиду
+[00:40:48] [G] Slyyype: !а
+[00:40:49] [G] Big_Rusian_Boss: !3х3 рг
+[00:40:50] [G] Slyyype: !окей
+[00:40:53] BlackBack issued server command: /kit eat
+[00:40:56] [G] Big_Rusian_Boss: !если вышел на край рг деревьев
+[00:40:59] [G] Big_Rusian_Boss: !можешь выходить
+[00:41:02] [G] Slyyype: !)
+[00:41:05] [G] Big_Rusian_Boss: !и новый акк создавать
+[00:41:05] TrullaPOP зашёл
+[00:41:06] [G] BlackBack: !аххаха
+[00:41:08] [G] Big_Rusian_Boss: ! BlackBack спроси
+[00:41:09] [G] Slyyype: !Хахаха
+[00:41:09] [G] Big_Rusian_Boss: !))/
+[00:41:13] TrullaPOP issued server command: /we cui
+[00:41:14] [G] BlackBack: !оттуда не выйти)
+[00:41:16] [G] Big_Rusian_Boss: !если бы Некит нас не вытягивал
+[00:41:22] [G] Big_Rusian_Boss: !сидели бы ещё выводили сакуру
+[00:41:24] [G] BlackBack: !модер даже как то застрял
+[00:41:29] Goggi007 issued server command: /warp s
+[00:41:29] [G] Slyyype: !пахпхахах
+[00:41:30] [G] Big_Rusian_Boss: !+
+[00:41:31] [G] Slyyype: !снят
+[00:41:34] [G] Big_Rusian_Boss: !так и было
+[00:41:42] [G] Big_Rusian_Boss: !и вчера лаго-ферму сделал
+[00:41:45] [G] Big_Rusian_Boss: !гений на легебоке
+[00:41:48] [G] Slyyype: !м
+[00:41:49] ponyapapacurseda issued server command: /home
+[00:41:52] bum_ issued server command: /МФТШЫР
+[00:41:52] bum_ issued server command: /vanish
+[00:41:54] [G] bum_: !&2Делаю любые веши на заказ.
+[00:41:56] Yoonllx issued server command: /rtp
+[00:42:01] [G] Slyyype: !туту арманк делал феру резины, 1к в 10 сек
+[00:42:01] [G] Big_Rusian_Boss: !через ботанию умножал кварц
+[00:42:01] ponyapapacurseda issued server command: /warp s
+[00:42:06] [G] Slyyype: !100 ферм было
+[00:42:15] Yoonllx issued server command: /rtp
+[00:42:16] Monolitoveth вышел
+[00:42:20] [G] bum_: !а потом нас грифануть решил)
+[00:42:21] enioZz issued server command: /playtime
+[00:42:21] [G] Big_Rusian_Boss: !15 ускоров в трубы эндерио
+[00:42:27] ponyapapacurseda issued server command: /home
+[00:42:32] linbergusha issued server command: /home
+[00:42:34] [G] Big_Rusian_Boss: !и там по всей хате кварц лежал)))
+[00:42:37] [L] vitask: ПОчти
+[00:42:38] [G] Big_Rusian_Boss: ! бум, а када це було
+[00:42:39] [G] Slyyype: !пвахаххаах
+[00:42:40] ponyapapacurseda issued server command: /spawn
+[00:42:42] [L] Stern633: ага
+[00:42:43] ponyapapacurseda issued server command: /we cui
+[00:42:46] Big_Rusian_Boss issued server command: /home
+[00:42:47] [G] bum_: !Та не давно
+[00:42:48] Big_Rusian_Boss issued server command: /tpahere BlackBack
+[00:42:50] BlackBack issued server command: /tpaccept
+[00:42:51] ponyapapacurseda issued server command: /home
+[00:42:53] ponyapapacurseda issued server command: /we cui
+[00:42:54] [G] Big_Rusian_Boss: !ласт вайп?
+[00:42:58] [G] bum_: !фермы недели 2 назад сняли
+[00:43:05] [G] Slyyype: !кста за что?
+[00:43:08] [G] Big_Rusian_Boss: !стоп, этот вайп?
+[00:43:10] [G] zxcursed1337: !во сколько рестарт?
+[00:43:10] [G] Slyyype: !из-за нагрузки всё таки?
+[00:43:13] Yoonllx issued server command: /rtp
+[00:43:16] [G] Big_Rusian_Boss: !слупи, глянешь?
+[00:43:17] [G] bum_: !Потому что тони сказал либо снемаете
+[00:43:20] [G] Slyyype: !кажде 3 часа
+[00:43:22] Stern633 вышел
+[00:43:22] [G] Slyyype: !а как
+[00:43:22] [G] bum_: !либо БАн
+[00:43:24] [G] Slyyype: !нучи
+[00:43:27] ponyapapacurseda issued server command: /warp s
+[00:43:30] [G] Big_Rusian_Boss: !вам не говорили даже этого?0
+[00:43:30] [G] Slyyype: !хахаахах
+[00:43:31] [G] zxcursed1337: !А тони до конца лето никто, азаза
+[00:43:37] [G] Slyyype: !ууу
+[00:43:39] [G] Big_Rusian_Boss: !а вас чему-то учили ваще?
+[00:43:39] [G] Slyyype: !осуждаю
+[00:43:41] [G] zxcursed1337: !можно немного подкалывать :D, ток чтоб ни обиделся)
+[00:43:43] [G] Slyyype: !в состав не попадешь
+[00:43:45] [G] Slyyype: !за такие слова
+[00:43:46] [G] Slyyype: !)Щ
+[00:43:50] [G] zxcursed1337: !Он это сам сказал)0
+[00:43:58] MrDry issued server command: /feed
+[00:44:00] [G] Slyyype: !ему точно можно так
+[00:44:01] [G] Slyyype: !хахахаха
+[00:44:08] [G] Slyyype: !это старший состав
+[00:44:09] [G] Big_Rusian_Boss: !а, у тебя мод. команды не сохранились же
+[00:44:10] [L] vitask: Тут у нас что?
+[00:44:12] [G] Slyyype: !вкг по 800 продаёт
+[00:44:15] [G] Slyyype: !по рофлу
+[00:44:17] [G] Big_Rusian_Boss: !помоему, через лол
+[00:44:17] [G] Slyyype: !xD
+[00:44:21] [G] Big_Rusian_Boss: !попробуй хоть
+[00:44:22] bum_ вышел
+[00:44:27] [G] Slyyype: !да я так и не узнал
+[00:44:29] [G] Slyyype: !какая командва
+[00:44:42] [G] Big_Rusian_Boss: !ну, это команда
+[00:44:43] [G] Big_Rusian_Boss: !lol
+[00:44:52] [G] Big_Rusian_Boss: !или это на тпс...
+[00:45:01] ponyapapacurseda issued server command: /home
+[00:45:17] MrDry вышел
+[00:45:19] Slyyype issued server command: /restarter
+[00:45:23] linbergusha issued server command: /home
+[00:45:32] [G] Slyyype: !блин
+[00:45:34] [G] Slyyype: !я бы чекал
+[00:45:37] [G] Big_Rusian_Boss: !не?
+[00:45:41] [G] Slyyype: !если бы знал команду
+[00:45:44] [G] Slyyype: !ты в составе было
+[00:45:45] [G] Big_Rusian_Boss: !ну, говорю же
+[00:45:46] [G] Big_Rusian_Boss: !Lol
+[00:45:48] Slyyype issued server command: /lol
+[00:45:50] [G] Big_Rusian_Boss: !команда
+[00:45:54] Renko issued server command: /home
+[00:45:55] [G] Big_Rusian_Boss: !по идее инфа о сервере дается
+[00:45:55] [G] Slyyype: !нету такой))
+[00:45:57] Renko issued server command: /we cui
+[00:45:59] Big_Rusian_Boss issued server command: /lol
+[00:46:03] [G] Big_Rusian_Boss: !эээ
+[00:46:07] [G] Big_Rusian_Boss: !тада шот другое придумали
+[00:46:11] Big_Rusian_Boss issued server command: /help
+[00:46:14] Big_Rusian_Boss issued server command: /help 2
+[00:46:16] [G] Slyyype: !скай
+[00:46:18] [G] Slyyype: !гений
+[00:46:20] [G] Slyyype: !получается
+[00:46:22] [G] Big_Rusian_Boss: !+
+[00:46:28] [G] Big_Rusian_Boss: !целую команду изменил за вайп
+[00:46:28] vitask issued server command: /warp shop
+[00:46:30] [G] Big_Rusian_Boss: !хд
+[00:46:30] vitask issued server command: /we cui
+[00:46:34] [G] Slyyype: !хахахаха
+[00:46:40] [G] Big_Rusian_Boss: !да не, там была команда
+[00:46:42] [G] Big_Rusian_Boss: !чтото такое
+[00:46:45] [G] Big_Rusian_Boss: !писало инфу
+[00:46:48] [G] Big_Rusian_Boss: !тпс, када рестарт
+[00:46:52] artemvesyolyh зашёл
+[00:46:54] [G] Big_Rusian_Boss: !не помню, спроси у канеки
+[00:46:59] [G] Big_Rusian_Boss: !мб тебе и доступна
+[00:47:01] artemvesyolyh issued server command: /we cui
+[00:47:03] Goggi007 issued server command: /warp s
+[00:47:06] Goggi007 issued server command: /home
+[00:47:09] linbergusha issued server command: /warp one
+[00:47:17] [L] Big_Rusian_Boss: а, ой
+[00:47:19] [G] Slyyype: !спросил
+[00:47:20] Goggi007 issued server command: /warp s
+[00:47:23] [L] BlackBack: кхм
+[00:47:26] [G] Slyyype: !Жду ответа.
+[00:47:27] artemvesyolyh issued server command: /rtp
+[00:47:28] [L] Big_Rusian_Boss: 0_о
+[00:47:29] TrullaPOP issued server command: /kit stark
+[00:47:31] artemvesyolyh issued server command: /rtp
+[00:47:31] TrullaPOP issued server command: /kit eat
+[00:47:32] [G] Big_Rusian_Boss: !он вам отвечает?
+[00:47:32] TrullaPOP issued server command: /kit
+[00:47:34] TrullaPOP issued server command: /kit start
+[00:47:35] [L] BlackBack: у меня важные дела, вынуждена удалиться
+[00:47:35] [G] Slyyype: !никак
+[00:47:36] [G] Big_Rusian_Boss: !на меня обидился чтоли?
+[00:47:38] TrullaPOP issued server command: /kit hunter
+[00:47:38] [G] Slyyype: !ищи в логах
+[00:47:40] [L] Big_Rusian_Boss: ухади
+[00:47:40] BlackBack issued server command: /warp h
+[00:47:43] [G] Big_Rusian_Boss: !рял...
+[00:47:44] [G] Slyyype: !послал получается
+[00:47:46] [G] Yoonllx: !а для чего нужен жидкий опыт
+[00:47:47] vitask issued server command: /warp world
+[00:47:48] vitask issued server command: /we cui
+[00:47:50] [G] Big_Rusian_Boss: !да он обидился
+[00:47:50] vitask issued server command: /tppos -1333 72 -4512
+[00:47:52] vitask issued server command: /god
+[00:47:53] MClike умер (LAVA)
+[00:47:56] [G] Big_Rusian_Boss: !что я течку не героем назвал(
+[00:48:02] [G] Big_Rusian_Boss: !ЖВ
+[00:48:06] Goggi007 issued server command: /home
+[00:48:08] [G] Yoonllx: !а для чего нужен жидкий опыт
+[00:48:09] MClike issued server command: /we cui
+[00:48:10] [G] Yoonllx: !ой
+[00:48:11] artemvesyolyh issued server command: /trp
+[00:48:14] GADJIK_H issued server command: /playtime ass_we_can
+[00:48:16] artemvesyolyh issued server command: /warp world
+[00:48:17] artemvesyolyh issued server command: /we cui
+[00:48:25] artemvesyolyh issued server command: /rtp
+[00:48:27] [G] Big_Rusian_Boss: !передавать свой опыт на другие акки можешь
+[00:48:28] MClike issued server command: /warp s
+[00:48:29] [G] Slyyype: !в 22:04 был
+[00:48:30] [G] Big_Rusian_Boss: !или хранить его
+[00:48:30] MClike issued server command: /we cui
+[00:48:35] [G] Big_Rusian_Boss: !как узнал?)
+[00:48:38] [G] Slyyype: !через пару минут будет
+[00:48:41] Yoonllx умер (VOID)
+[00:48:42] [G] Slyyype: !логи
+[00:48:42] Renko вышел
+[00:48:45] [G] Big_Rusian_Boss: !гений
+[00:48:46] AlkashMestniy issued server command: /warp end
+[00:48:48] AlkashMestniy issued server command: /we cui
+[00:48:48] Yoonllx issued server command: /we cui
+[00:48:49] [G] Slyyype: !они под рукой
+[00:48:50] [G] Big_Rusian_Boss: !я думал канеки ответил
+[00:48:53] [G] Yoonllx: !Нееееееееееееееет
+[00:48:56] [G] Yoonllx: !мои драконие вещи
+[00:48:58] [G] Big_Rusian_Boss: !не флуди
+[00:49:05] [G] Slyyype: !ХАХАХА
+[00:49:07] [G] Yoonllx: !да блин я щас сдохну
+[00:49:07] [G] Slyyype: !ой
+[00:49:10] TrullaPOP вышел
+[00:49:11] [G] Slyyype: !&8[&7@&9Slyyype&8] &3Не капси дружок -&8 &43.1.
+[00:49:19] [G] Yoonllx: !че за дела блин почему бедрока нету
+[00:49:22] [G] Goggi007: !F
+[00:49:24] [G] Yoonllx: !что мне щас делать\
+[00:49:26] [G] BlackBack: !самокритично
+[00:49:29] [G] Yoonllx: !да блллллллл
+[00:49:31] [G] Slyyype: !где
+[00:49:31] [G] Yoonllx: !инннннннн
+[00:49:32] [G] Slyyype: !скажи
+[00:49:36] kirito3 зашёл
+[00:49:42] [G] Slyyype: !корды смерти скажи
+[00:49:44] [G] Yoonllx: !да я че еб знаю что ли я на ртп был
+[00:49:45] [G] Slyyype: !я тп сделаю
+[00:49:45] [G] Yoonllx: !ща
+[00:49:49] kirito3 issued server command: /we cui
+[00:49:49] Yoonllx issued server command: /home
+[00:49:53] [G] Big_Rusian_Boss: !так он с мира упал
+[00:49:53] Yoonllx issued server command: /we cui
+[00:49:54] [G] Big_Rusian_Boss: !всё
+[00:49:56] [G] Big_Rusian_Boss: !гайки
+[00:49:57] kirito3 issued server command: /fly
+[00:49:58] [G] Slyyype: !та просто
+[00:49:59] kirito3 issued server command: /god
+[00:49:59] [G] Goggi007: !Метка при смерти ставится
+[00:50:04] [G] Slyyype: !без дырок должен мир быть
+[00:50:12] kirito3 issued server command: /kit start
+[00:50:15] Slyyype issued server command: /vanish
+[00:50:15] [G] Big_Rusian_Boss: !так скорее всего энд
+[00:50:18] [G] Yoonllx: !1534 -59
+[00:50:24] Slyyype issued server command: /vanish
+[00:50:32] Slyyype issued server command: /tppos 1534 100 -59
+[00:50:37] Slyyype issued server command: /fly
+[00:50:38] [G] Yoonllx: !моя броня.. лук драконий.. меч виверны.. кирка драконья
+[00:50:44] [G] Yoonllx: !у меня ничего не осталось......
+[00:50:46] [G] Slyyype: !я сам выпал
+[00:50:48] [G] Yoonllx: !я бомж
+[00:50:49] [G] Slyyype: !ХАХАХАХАХАХАХАХАХАХАХАХХАХА
+[00:50:50] Slyyype issued server command: /адн
+[00:50:50] Slyyype issued server command: /fly
+[00:50:51] Slyyype issued server command: /fly
+[00:50:53] Slyyype issued server command: /fly
+[00:50:53] [G] BlackBack: !ахахаха
+[00:50:58] [G] Yoonllx: !(
+[00:51:02] [G] Goggi007: !Ну ваще, командой /zset можно сносить бедрок, ко я первый уровень не трогал, может его не сносит
+[00:51:06] kirito3 вышел
+[00:51:08] ponyapapacurseda вышел
+[00:51:10] [G] GADJIK_H: !все, обжалование полетело на форум
+[00:51:15] Slyyype issued server command: /unmute slyyype
+[00:51:15] AlkashMestniy issued server command: /home
+[00:51:16] AlkashMestniy issued server command: /we cui
+[00:51:22] [G] GADJIK_H: !это капец, очень несправедливо, я столько старался
+[00:51:24] Slyyype issued server command: /tppos 1534 100 -59
+[00:51:30] [G] Yoonllx: !я щас сддохну.
+[00:51:37] [G] Yoonllx: !я столько времени на это потратил
+[00:51:45] [G] Yoonllx: !и в конце остался бомжом
+[00:51:47] [G] Big_Rusian_Boss: ! GADJIK_H, напомнило видео с той малой
+[00:51:50] [G] BlackBack: !соболезную(
+[00:51:54] Slyyype issued server command: /кп ш
+[00:51:54] Slyyype issued server command: /rg ш
+[00:51:55] [G] Big_Rusian_Boss: !"но я так старалась, УУУУУУУ"
+[00:51:55] Slyyype issued server command: /rg i
+[00:52:03] [G] Yoonllx: !да ты че
+[00:52:06] [G] GADJIK_H: ! ахахахахах, есть такое
+[00:52:07] [G] Yoonllx: !блллллллиннннннннннннннннннннн
+[00:52:12] [G] Big_Rusian_Boss: !та тише)
+[00:52:16] [G] Big_Rusian_Boss: !не флуди ж
+[00:52:22] [G] Yoonllx: !а че мне делать щас
+[00:52:26] [G] Yoonllx: !боже
+[00:52:27] [G] Goggi007: !slyyype Походу на 30 минут отлетел))))
+[00:52:32] [G] GADJIK_H: !чтобы вы понимали сколько я играл, у меня посох 10грейд с нуля,
+[00:52:33] Yoonllx issued server command: /кез
+[00:52:33] Yoonllx issued server command: /rtp
+[00:52:38] Slyyype issued server command: /s Yoonllx
+[00:52:40] artemvesyolyh issued server command: /rtp
+[00:52:44] [G] GADJIK_H: !около 7к эмов за вайп потратил
+[00:52:44] Goggi007 issued server command: /warp one
+[00:52:49] [L] Yoonllx: че
+[00:52:51] linbergusha issued server command: /warp one
+[00:52:55] [L] Yoonllx: хто
+[00:52:55] [G] Big_Rusian_Boss: !слупи...
+[00:52:58] [G] GADJIK_H: !еще и соло играл, так что все сам
+[00:53:01] [G] Big_Rusian_Boss: !unmute slypee
+[00:53:03] [L] Yoonllx: мои вещи....
+[00:53:07] Slyyype вышел
+[00:53:08] [G] BlackBack: !бедный слупи(
+[00:53:14] [G] Big_Rusian_Boss: !плс хелп
+[00:53:36] [G] Big_Rusian_Boss: !продаю посох из кейса, в лс
+[00:53:37] bum_ зашёл
+[00:53:46] [G] Big_Rusian_Boss: !Стоять
+[00:53:47] bum_ issued server command: /we cui
+[00:53:49] [G] Big_Rusian_Boss: !Даша
+[00:53:51] [L] Yoonllx: кто тепнул....
+[00:53:54] [G] Big_Rusian_Boss: !а де моя сакура бальшая
+[00:54:03] [G] Big_Rusian_Boss: !че у меня маленький тока?
+[00:54:18] V_Toxa_V вышел
+[00:54:28] [G] BlackBack: !обойдешься
+[00:54:31] [G] Yoonllx: !ненавижу того человека кто это сделал...
+[00:54:32] kpakeh9000 зашёл
+[00:54:34] [G] Big_Rusian_Boss: !адавай!
+[00:54:34] [G] GADJIK_H: !куплю сияние луны за инвентарь булыжника
+[00:54:37] kpakeh9000 issued server command: /we cui
+[00:54:41] [G] Big_Rusian_Boss: !даю 3 изумруда.
+[00:54:44] [G] kpakeh9000: !босс не могу сам себя анмут
+[00:54:47] [G] kpakeh9000: !попробовал
+[00:54:50] [G] bum_: !@ Yoonllx что случилось
+[00:54:50] [G] GADJIK_H: !16 квг 2 лвл, представляете
+[00:54:52] [G] kpakeh9000: !зашёл с твинка
+[00:54:54] [G] kpakeh9000: !хахаах
+[00:54:57] [G] Big_Rusian_Boss: !надеялся, что права оставили
+[00:55:00] kpakeh9000 issued server command: /home
+[00:55:04] Big_Rusian_Boss issued server command: /call kpakeh9000
+[00:55:07] kpakeh9000 issued server command: /tpaccept
+[00:55:14] [L] kpakeh9000: рщь
+[00:55:15] kpakeh9000 issued server command: /home
+[00:55:19] kpakeh9000 issued server command: /warp top
+[00:55:20] [G] Yoonllx: !бум та я упал в бездну и просрал броню. меч виверны. кирку дк. лук дк. бур и все осталоьное
+[00:55:21] kpakeh9000 issued server command: /we cui
+[00:55:21] kirito3 зашёл
+[00:55:23] kpakeh9000 issued server command: /tpaccept
+[00:55:24] kirito3 issued server command: /we cui
+[00:55:24] [G] Goggi007: !Помянем Слюпи...
+[00:55:24] GADJIK_H вышел
+[00:55:28] [G] Goggi007: !F
+[00:55:29] [G] Big_Rusian_Boss: !а басик то играет?
+[00:55:33] kirito3 issued server command: /fly
+[00:55:33] [G] bum_: !в энде?
+[00:55:35] kirito3 issued server command: /god
+[00:55:36] [G] Yoonllx: !нет.
+[00:55:37] [L] kpakeh9000: у меня хоп
+[00:55:39] [L] kpakeh9000: хом
+[00:55:40] [G] Yoonllx: !в обычном
+[00:55:45] [L] kpakeh9000: стоит сверху ада
+[00:55:45] [G] Yoonllx: !теперь я бомж
+[00:55:45] [L] Big_Rusian_Boss: лаги
+[00:55:47] [L] Big_Rusian_Boss: не
+[00:55:48] [L] Big_Rusian_Boss: не могу
+[00:55:49] Goggi007 issued server command: /warp top
+[00:55:50] [L] Big_Rusian_Boss: спасите
+[00:55:50] linbergusha issued server command: /home
+[00:55:51] Big_Rusian_Boss issued server command: /home
+[00:55:52] [G] Yoonllx: !у меня ничего.
+[00:55:54] linbergusha issued server command: /eat
+[00:55:54] [G] Big_Rusian_Boss: !ам
+[00:55:56] bum_ issued server command: /home
+[00:56:00] [G] Big_Rusian_Boss: !напиши по поводу этого ст. составу
+[00:56:01] kpakeh9000 issued server command: /tpa Big_Rusian_Boss
+[00:56:03] [G] BlackBack: !разве нельза на форму написать
+[00:56:03] [G] Big_Rusian_Boss: !мб вернут
+[00:56:04] Big_Rusian_Boss issued server command: /tpaccept
+[00:56:09] kpakeh9000 issued server command: /kit eat
+[00:56:10] [G] Yoonllx: !эт хде
+[00:56:14] [G] Yoonllx: !я не шарю в этом
+[00:56:18] [G] Big_Rusian_Boss: !это на форуме
+[00:56:20] AlkashMestniy issued server command: /warp one
+[00:56:23] AlkashMestniy issued server command: /warp s
+[00:56:23] [L] Yoonllx: а форум это хде
+[00:56:24] [G] Yoonllx: !пхх
+[00:56:37] [L] Big_Rusian_Boss: це ты
+[00:56:48] AlkashMestniy issued server command: /home
+[00:56:48] [L] kpakeh9000: да
+[00:56:49] [L] kpakeh9000: слупи
+[00:56:51] [L] kpakeh9000: 228
+[00:57:14] Goggi007 issued server command: /home
+[00:57:15] enioZz issued server command: /home
+[00:57:16] enioZz issued server command: /we cui
+[00:57:29] Big_Rusian_Boss issued server command: /warp one
+[00:57:42] Big_Rusian_Boss issued server command: /home
+[00:57:44] [L] Big_Rusian_Boss: на
+[00:57:49] linbergusha issued server command: /home
+[00:57:51] [L] kpakeh9000: о морж
+[00:57:53] [L] Big_Rusian_Boss: не понял
+[00:57:59] [L] Big_Rusian_Boss: сдурели
+[00:58:00] [L] Big_Rusian_Boss: собаки
+[00:58:02] [L] Big_Rusian_Boss: переназвал
+[00:58:05] [L] Big_Rusian_Boss: просрал орпыт
+[00:58:05] [L] kpakeh9000: ахахаха
+[00:58:06] linbergusha issued server command: /кез
+[00:58:06] linbergusha issued server command: /rtp
+[00:58:07] [L] Yoonllx: я зашел на форум
+[00:58:08] [L] Big_Rusian_Boss: а оно не назвало
+[00:58:11] [L] kpakeh9000: скам
+[00:58:11] Goggi007 issued server command: /spawn
+[00:58:14] Goggi007 issued server command: /we cui
+[00:58:14] [L] Yoonllx: а какой основонй раздел выбрать
+[00:58:14] [L] kpakeh9000: чисто от ская
+[00:58:15] [L] Big_Rusian_Boss: ща
+[00:58:17] Big_Rusian_Boss issued server command: /warp one
+[00:58:19] [G] enioZz: ! Куплю кирку виверны за жб
+[00:58:20] enioZz issued server command: /warp s
+[00:58:31] AlkashMestniy issued server command: /t enioZz продам
+[00:58:31] Big_Rusian_Boss issued server command: /home
+[00:58:32] [L] Big_Rusian_Boss: на
+[00:58:38] enioZz issued server command: /pm AlkashMestniy цена?
+[00:58:40] Yoonllx issued server command: /tpa Big_Rusian_Boss
+[00:58:40] [L] kpakeh9000: ахахаха
+[00:58:41] [L] kpakeh9000: спс
+[00:58:42] Big_Rusian_Boss issued server command: /tpaccept
+[00:58:44] AlkashMestniy issued server command: /r Минималка
+[00:58:47] [L] Big_Rusian_Boss: )))
+[00:58:48] AlkashMestniy issued server command: /r 375 jb
+[00:58:53] [L] Yoonllx: а какой там основной раздел выбрать
+[00:58:55] [L] Big_Rusian_Boss: хавай его
+[00:58:55] [G] artemvesyolyh: !а тут читеры есть?
+[00:59:00] [L] Big_Rusian_Boss: ну, ты авторизировался?
+[00:59:03] [L] Yoonllx: ды
+[00:59:05] [G] kpakeh9000: !да
+[00:59:07] [L] Big_Rusian_Boss: ну вот
+[00:59:08] [G] kpakeh9000: !когда как
+[00:59:09] enioZz issued server command: /pm AlkashMestniy там 415 жб, 1 жб - 0,9 эм
+[00:59:09] [L] Big_Rusian_Boss: нажал ФОРУМ
+[00:59:12] [L] Big_Rusian_Boss: и дальше пиши
+[00:59:13] [L] Yoonllx: нажал
+[00:59:14] Goggi007 issued server command: /home
+[00:59:16] Goggi007 issued server command: /we cui
+[00:59:17] AlkashMestniy issued server command: /цфкз
+[00:59:17] AlkashMestniy issued server command: /warp
+[00:59:20] [L] Yoonllx: тк там основной раздел выбрать
+[00:59:20] AlkashMestniy issued server command: /warp one
+[00:59:23] enioZz issued server command: /pm AlkashMestniy сча я возьму и напишу
+[00:59:25] AlkashMestniy issued server command: /r щас скажу сек
+[00:59:26] [L] Big_Rusian_Boss: ну
+[00:59:27] AlkashMestniy issued server command: /warp s
+[00:59:30] [L] Yoonllx: вопрос ответ или жалоба ил че то другое
+[00:59:31] [L] Big_Rusian_Boss: и там разные подразделы
+[00:59:33] [L] Big_Rusian_Boss: шо там
+[00:59:34] [L] Big_Rusian_Boss: не помню уже
+[00:59:40] linbergusha issued server command: /home
+[00:59:41] [L] Big_Rusian_Boss: баги и т.д
+[00:59:43] [L] Big_Rusian_Boss: чтото такое ищи
+[00:59:44] [L] Yoonllx: за
+[00:59:46] [L] Big_Rusian_Boss: пиши туда
+[00:59:47] [L] Yoonllx: ща
+[00:59:49] [L] Big_Rusian_Boss: ааа, копался
+[00:59:50] enioZz issued server command: /home
+[00:59:55] [L] Big_Rusian_Boss: какой-то петух сетнул бедрок
+[00:59:57] Goggi007 вышел
+[00:59:58] [L] Big_Rusian_Boss: и я упал потерял ресы
+[01:00:02] Big_Rusian_Boss issued server command: /home
+[01:00:04] AlkashMestniy issued server command: /r минималка 15 старых монет
+[01:00:09] AlkashMestniy issued server command: /к 1 монета 30 жб
+[01:00:09] AlkashMestniy issued server command: /r 1 монета 30 жб
+[01:00:09] [L] Big_Rusian_Boss: ресы мусор, но это было всё что у меня есть
+[01:00:22] [L] Big_Rusian_Boss: прошу войти в положение, а не сослаться на 1.3
+[01:00:24] [L] Big_Rusian_Boss: ))
+[01:00:26] [L] Yoonllx: там нету багов
+[01:00:30] [L] Big_Rusian_Boss: шот такое
+[01:00:32] [L] kpakeh9000: босс а ты поч ушёл
+[01:00:34] [L] Big_Rusian_Boss: недоработки
+[01:00:36] [L] Big_Rusian_Boss: куда
+[01:00:36] [L] kpakeh9000: с поста?
+[01:00:38] AlkashMestniy issued server command: /к продам за 14 , а точнее 14х30=420
+[01:00:38] AlkashMestniy issued server command: /r продам за 14 , а точнее 14х30=420
+[01:00:39] [L] Big_Rusian_Boss: так сняли же
+[01:00:42] AlkashMestniy issued server command: /call enioZz
+[01:00:42] [L] Big_Rusian_Boss: из-за мейва
+[01:00:46] [L] Big_Rusian_Boss: чего мы с ним так
+[01:00:48] [L] Big_Rusian_Boss: ибо я его попустил
+[01:00:53] [L] Big_Rusian_Boss: а меня из-за этого снял тони
+[01:00:54] [L] kpakeh9000: красава
+[01:00:55] AlkashMestniy issued server command: /home
+[01:00:56] [L] Big_Rusian_Boss: не, ладно
+[01:00:57] [L] kpakeh9000: лучший
+[01:00:58] enioZz issued server command: /pm AlkashMestniy давай на варп с, там без пвп
+[01:01:02] [L] Big_Rusian_Boss: я его постоянно попускал
+[01:01:04] AlkashMestniy issued server command: /call s
+[01:01:07] AlkashMestniy issued server command: /r sorry
+[01:01:08] [L] Big_Rusian_Boss: а тони просил этого не делать
+[01:01:09] AlkashMestniy issued server command: /call s
+[01:01:10] [L] Yoonllx: какой выбрать то
+[01:01:12] AlkashMestniy issued server command: /warp s
+[01:01:13] [L] Yoonllx: там багов нету
+[01:01:15] [L] Big_Rusian_Boss: недоработки все дела
+[01:01:15] [L] kpakeh9000: умеешь
+[01:01:19] [L] kpakeh9000: могёшь
+[01:01:20] AlkashMestniy issued server command: /t Strike_10fps ne tp
+[01:01:21] [L] Big_Rusian_Boss: по факту
+[01:01:26] [L] Big_Rusian_Boss: он сказал снимет
+[01:01:29] [L] Big_Rusian_Boss: я подьебал мейва
+[01:01:31] AlkashMestniy issued server command: /call enioZz
+[01:01:31] [L] Big_Rusian_Boss: и...
+[01:01:34] [L] Big_Rusian_Boss: я тут
+[01:01:34] [L] kpakeh9000: (
+[01:01:34] AlkashMestniy issued server command: /r ты где
+[01:01:36] [L] Big_Rusian_Boss: :d
+[01:01:39] [L] kpakeh9000: xDF
+[01:01:39] AlkashMestniy issued server command: /t enioZz ты где
+[01:01:40] [L] Big_Rusian_Boss: а оскар ушёл?
+[01:01:43] [L] Big_Rusian_Boss: стоп
+[01:01:46] [L] kpakeh9000: нет вроде
+[01:01:47] [L] Yoonllx: таам есть решение распростроненных проблем
+[01:01:50] [L] kpakeh9000: экзы
+[01:01:50] [L] Yoonllx: может эт?
+[01:01:51] [L] kpakeh9000: просто
+[01:01:57] [L] Big_Rusian_Boss: оаоаоа
+[01:01:57] [L] Big_Rusian_Boss: понял
+[01:02:02] [G] artemvesyolyh: !кто тим по дс?
+[01:02:03] [L] Yoonllx: эту выбрать?
+[01:02:12] linbergusha issued server command: /home
+[01:02:19] artemvesyolyh issued server command: /kit start
+[01:02:19] AlkashMestniy issued server command: /r быстрее, спешу
+[01:02:20] [L] Big_Rusian_Boss: не помню куда
+[01:02:21] [L] Big_Rusian_Boss: реально
+[01:02:23] [L] Yoonllx: ...
+[01:02:23] Yoonllx issued server command: //
+[01:02:23] Yoonllx issued server command: //
+[01:02:25] [L] Big_Rusian_Boss: ну почитацй
+[01:02:27] [L] Big_Rusian_Boss: ало
+[01:02:29] enioZz issued server command: /warp s
+[01:02:34] [L] Big_Rusian_Boss: напиши сюда разделы
+[01:02:37] [L] Big_Rusian_Boss: в которые написал бы
+[01:02:42] [L] Big_Rusian_Boss: я скажу название
+[01:02:50] [L] Big_Rusian_Boss: я ж не помню все наизусть
+[01:02:52] [G] artemvesyolyh: !кто тим по дс?
+[01:02:53] [G] artemvesyolyh: !кто тим по дс?
+[01:02:54] [G] artemvesyolyh: !кто тим по дс?
+[01:03:01] [G] Big_Rusian_Boss: !poka
+[01:03:02] [G] zxcursed1337: !3.3, artemvesyolyh
+[01:03:04] [L] Big_Rusian_Boss: kpakeh9000
+[01:03:05] [G] kpakeh9000: !ахаххаха
+[01:03:08] [L] kpakeh9000: а
+[01:03:11] [G] zxcursed1337: !ой, перепутал, ахах
+[01:03:12] [L] Big_Rusian_Boss: повторяй за мной
+[01:03:14] [G] zxcursed1337: !Не карайте, 3.1 :D
+[01:03:15] [L] Big_Rusian_Boss: попускай мейва
+[01:03:20] [L] artemvesyolyh: е
+[01:03:21] [L] kpakeh9000: так он уже
+[01:03:22] [L] AlkashMestniy: Спасибо
+[01:03:22] [L] enioZz: спасибо
+[01:03:24] AlkashMestniy issued server command: /рщьу
+[01:03:24] AlkashMestniy issued server command: /home
+[01:03:24] enioZz issued server command: /home
+[01:03:26] [L] kpakeh9000: как 2 пальца
+[01:03:29] [L] kpakeh9000: по железу
+[01:03:29] [L] Big_Rusian_Boss: хахаха
+[01:03:32] [G] Big_Rusian_Boss: !он заметил))
+[01:03:36] AlkashMestniy issued server command: /t enioZz меч нужен?
+[01:03:38] artemvesyolyh issued server command: /tpa zxcursed1337
+[01:03:43] enioZz issued server command: /pm AlkashMestniy не, спасибо
+[01:03:46] [L] Big_Rusian_Boss: его по железу?
+[01:03:46] [L] Big_Rusian_Boss: ору
+[01:03:50] [L] Big_Rusian_Boss: идиот
+[01:03:52] [L] kpakeh9000: он пытался
+[01:03:57] [L] kpakeh9000: меня слить с канеки
+[01:03:57] [G] zxcursed1337: !Всем сладких)
+[01:04:02] [G] BlackBack: !спокойной
+[01:04:03] [L] Big_Rusian_Boss: ну по факту
+[01:04:07] [L] kpakeh9000: но я честный
+[01:04:09] [L] Big_Rusian_Boss: но у него док-в небыло
+[01:04:09] artemvesyolyh issued server command: /tpa AlkashMestniy
+[01:04:11] [L] kpakeh9000: и не получилось
+[01:04:13] AlkashMestniy issued server command: /tpaccept
+[01:04:15] [L] Big_Rusian_Boss: да ладно
+[01:04:18] [L] kpakeh9000: да
+[01:04:19] [L] Big_Rusian_Boss: все мы люди)
+[01:04:21] [L] kpakeh9000: да не
+[01:04:22] [L] artemvesyolyh: re
+[01:04:25] [L] Big_Rusian_Boss: но сама суть
+[01:04:26] [L] AlkashMestniy: тим
+[01:04:26] [L] kpakeh9000: я ни разу не нарушал
+[01:04:27] [L] AlkashMestniy: не буду
+[01:04:28] [L] kpakeh9000: с канеки
+[01:04:29] [L] AlkashMestniy: я одиночка
+[01:04:30] [L] kpakeh9000: тип
+[01:04:33] [L] kpakeh9000: мы фанились
+[01:04:34] [L] Big_Rusian_Boss: ну, канеки то...
+[01:04:43] [L] Big_Rusian_Boss: мы то знаем
+[01:04:44] [L] AlkashMestniy: не слышу
+[01:04:51] [L] AlkashMestniy: скажи
+[01:04:52] enioZz issued server command: /warp s
+[01:04:52] [L] kpakeh9000: канеку по факту опку сняли
+[01:04:53] [L] Big_Rusian_Boss: но ничего неслышим, ничего не говорим
+[01:04:58] [L] Big_Rusian_Boss: ну да
+[01:05:01] [L] AlkashMestniy: да
+[01:05:01] [L] Big_Rusian_Boss: после этого
+[01:05:10] [L] AlkashMestniy: нееа
+[01:05:17] BlackBack был кикнут
+[01:05:17] BlackBack вышел
+[01:05:17] vitask был кикнут
+[01:05:17] vitask вышел
+[01:05:17] zxcursed1337 был кикнут
+[01:05:17] zxcursed1337 вышел
+[01:05:17] ytyf был кикнут
+[01:05:17] ytyf вышел
+[01:05:17] Fruzzi2 был кикнут
+[01:05:17] Fruzzi2 вышел
+[01:05:17] Strike_10fps был кикнут
+[01:05:17] Strike_10fps вышел
+[01:05:17] Jorge был кикнут
+[01:05:17] Jorge вышел
+[01:05:17] Big_Rusian_Boss был кикнут
+[01:05:17] Big_Rusian_Boss вышел
+[01:05:17] enioZz был кикнут
+[01:05:17] enioZz вышел
+[01:05:17] linbergusha был кикнут
+[01:05:17] linbergusha вышел
+[01:05:17] AlkashMestniy был кикнут
+[01:05:17] AlkashMestniy вышел
+[01:05:17] artemvesyolyh был кикнут
+[01:05:17] artemvesyolyh вышел
+[01:05:17] MClike был кикнут
+[01:05:17] MClike вышел
+[01:05:17] Yoonllx был кикнут
+[01:05:17] Yoonllx вышел
+[01:05:17] bum_ был кикнут
+[01:05:17] bum_ вышел
+[01:05:17] kpakeh9000 был кикнут
+[01:05:17] kpakeh9000 вышел
+[01:05:17] kirito3 был кикнут
+[01:05:17] kirito3 вышел
+[01:05:23] Сервер выключился
+[01:06:15] Сервер включился
+[01:06:44] Jorge зашёл
+[01:06:45] linbergusha зашёл
+[01:06:46] Jorge issued server command: /we cui
+[01:06:46] AlkashMestniy зашёл
+[01:06:47] linbergusha issued server command: /we cui
+[01:06:47] AlkashMestniy issued server command: /we cui
+[01:06:48] AlkashMestniy issued server command: /цфкз
+[01:06:48] AlkashMestniy issued server command: /warp
+[01:06:49] BlackBack зашёл
+[01:06:50] AlkashMestniy issued server command: /warp end
+[01:06:51] AlkashMestniy issued server command: /we cui
+[01:06:51] artemvesyolyh зашёл
+[01:06:52] BlackBack issued server command: /we cui
+[01:06:53] artemvesyolyh issued server command: /we cui
+[01:06:54] Big_Rusian_Boss зашёл
+[01:06:57] Big_Rusian_Boss issued server command: /we cui
+[01:07:00] kirito3 зашёл
+[01:07:02] kirito3 issued server command: /we cui
+[01:07:11] [G] Big_Rusian_Boss: !Даш
+[01:07:14] kpakeh9000 зашёл
+[01:07:15] kpakeh9000 issued server command: /we cui
+[01:07:15] [G] Big_Rusian_Boss: !с твоим онл
+[01:07:15] Jorge issued server command: /fly
+[01:07:16] Jorge issued server command: /god
+[01:07:21] [G] Big_Rusian_Boss: !ты бы победила гонку))
+[01:07:22] kirito3 issued server command: /fly
+[01:07:23] Big_Rusian_Boss issued server command: /playimte
+[01:07:26] BlackBack issued server command: /playtime
+[01:07:27] vitask зашёл
+[01:07:27] Big_Rusian_Boss issued server command: /playtime
+[01:07:28] BlackBack issued server command: /playtimetop
+[01:07:29] vitask issued server command: /we cui
+[01:07:32] Big_Rusian_Boss issued server command: /playtime BlackBack
+[01:07:33] kirito3 issued server command: /god
+[01:07:35] BlackBack issued server command: /playtimetop clear
+[01:07:35] Big_Rusian_Boss issued server command: /playtimetop
+[01:07:47] enioZz зашёл
+[01:07:49] enioZz issued server command: /we cui
+[01:07:59] [G] BlackBack: !не думаю
+[01:07:59] vitask issued server command: /helpop коллеги, у которых автокрафт панелек, вы уголь только из шахты таскаете? Другого способа синтеза
+[01:07:59] vitask issued server command: /l коллеги, у которых автокрафт панелек, вы уголь только из шахты таскаете? Другого способа синтеза
+[01:08:00] vitask issued server command: /helpop угля нет?
+[01:08:00] vitask issued server command: /l угля нет?
+[01:08:00] AlkashMestniy issued server command: /home
+[01:08:01] AlkashMestniy issued server command: /we cui
+[01:08:14] [L] AlkashMestniy: что
+[01:08:20] [G] Big_Rusian_Boss: !та ладно тебе
+[01:08:21] Yoonllx зашёл
+[01:08:22] [L] AlkashMestniy: читы
+[01:08:25] [G] Big_Rusian_Boss: !была бы ты задротихой
+[01:08:27] Yoonllx issued server command: /we cui
+[01:08:35] [L] Yoonllx: написал.
+[01:08:37] [L] vitask: .пщв
+[01:08:37] vitask issued server command: /god
+[01:08:39] [G] BlackBack: !но я не задрот
+[01:08:41] [L] Big_Rusian_Boss: и шо ты напи сал
+[01:08:47] [L] Big_Rusian_Boss: "петухи", отдайте вещи
+[01:08:48] [L] Yoonllx: блин че мне делать щас
+[01:08:50] AlkashMestniy issued server command: /t vitask прилети ко мне на ванише, тут тип с читами
+[01:08:58] [L] Yoonllx: верните вещи пж( title
+[01:08:59] [L] Yoonllx: пхп
+[01:08:59] vitask issued server command: /vanish
+[01:09:03] vitask issued server command: /tp AlkashMestniy
+[01:09:03] [L] Big_Rusian_Boss: :D
+[01:09:05] enioZz issued server command: /home
+[01:09:09] [L] Big_Rusian_Boss: надеюсб это шутка
+[01:09:12] [L] Yoonllx: нет.
+[01:09:26] [L] Yoonllx: не ну аче
+[01:09:37] artemvesyolyh issued server command: /kit eat
+[01:09:48] [L] Big_Rusian_Boss: ахаха
+[01:09:49] [L] Big_Rusian_Boss: харош
+[01:09:53] Jorge issued server command: /playtime
+[01:09:54] enioZz issued server command: /home
+[01:10:01] [L] Yoonllx: кучу времени на это все убил
+[01:10:29] AlkashMestniy убил artemvesyolyh (DRACONICEVOLUTION_DRACONICSWORD)
+[01:10:33] [G] Yoonllx: !бедни
+[01:10:38] artemvesyolyh вышел
+[01:10:44] artemvesyolyh зашёл
+[01:10:47] Yoonllx issued server command: /home
+[01:10:53] vitask issued server command: /vanish
+[01:11:00] [L] vitask: фига он топит
+[01:11:04] [L] AlkashMestniy: угу
+[01:11:09] linbergusha issued server command: /home
+[01:11:13] [L] AlkashMestniy: видос сделал?
+[01:11:16] enioZz issued server command: /home
+[01:11:19] artemvesyolyh вышел
+[01:11:29] linbergusha issued server command: /home
+[01:11:30] artemvesyolyh зашёл
+[01:11:31] artemvesyolyh issued server command: /we cui
+[01:11:43] artemvesyolyh issued server command: /tpa AlkashMestniy
+[01:11:54] enioZz issued server command: /warp s
+[01:11:56] artemvesyolyh issued server command: /warp world
+[01:11:57] artemvesyolyh issued server command: /we cui
+[01:11:58] zxcursed1337 зашёл
+[01:12:00] artemvesyolyh issued server command: /tpa AlkashMestniy
+[01:12:01] zxcursed1337 issued server command: /we cui
+[01:12:06] [L] vitask: Коряво. Дождемся второй раз. Поздно отреагировал
+[01:12:06] [L] AlkashMestniy: снова тп
+[01:12:12] [L] AlkashMestniy: в ваниш
+[01:12:12] [L] AlkashMestniy: уйди
+[01:12:16] vitask issued server command: /vanish
+[01:12:26] artemvesyolyh issued server command: /tpa Big_Rusian_Boss
+[01:12:28] AlkashMestniy issued server command: /tpaccept
+[01:12:32] Big_Rusian_Boss issued server command: /tpaccept
+[01:12:46] [L] Big_Rusian_Boss: кто ты?
+[01:12:48] [L] Big_Rusian_Boss: выкин
+[01:12:51] [L] Big_Rusian_Boss: у них плохие гены
+[01:13:01] [L] Big_Rusian_Boss: повтори
+[01:13:08] AlkashMestniy issued server command: /t artemvesyolyh что ты хочешь?
+[01:13:17] [L] Big_Rusian_Boss: тебя не слышно
+[01:13:21] linbergusha issued server command: /warp one
+[01:13:30] [L] Big_Rusian_Boss: ворр
+[01:13:42] vitask issued server command: /r AlkashMestniy куда он исчез?
+[01:13:51] AlkashMestniy issued server command: /r хз
+[01:13:53] linbergusha issued server command: /home
+[01:13:54] [L] artemvesyolyh: дай нано саблю
+[01:13:55] AlkashMestniy issued server command: /r ваниш юзанул
+[01:13:56] AlkashMestniy issued server command: /к тоже
+[01:13:56] AlkashMestniy issued server command: /r тоже
+[01:14:21] vitask issued server command: /r AlkashMestniy тогда я тут постою поафкшу
+[01:14:23] TheBotStyle зашёл
+[01:14:25] AlkashMestniy issued server command: /к ок
+[01:14:25] AlkashMestniy issued server command: /r ок
+[01:14:27] artemvesyolyh issued server command: /tpa AlkashMestniy
+[01:14:28] vitask issued server command: /r AlkashMestniy может вернется
+[01:14:31] TheBotStyle issued server command: /we cui
+[01:14:34] [L] kpakeh9000: шо
+[01:14:35] TheBotStyle issued server command: /mpcaseshop
+[01:14:37] TheBotStyle issued server command: /mpcaseview 10
+[01:14:38] TheBotStyle issued server command: /rollcase 10
+[01:14:40] AlkashMestniy issued server command: /к идёт
+[01:14:40] AlkashMestniy issued server command: /r идёт
+[01:14:41] [L] Big_Rusian_Boss: махаца собрался
+[01:14:42] AlkashMestniy issued server command: /езфссузе
+[01:14:42] AlkashMestniy issued server command: /tpaccept
+[01:14:52] TheBotStyle issued server command: /mpcaseview 10
+[01:14:52] [L] AlkashMestniy: украл
+[01:14:53] TheBotStyle issued server command: /rollcase 10
+[01:15:07] TheBotStyle issued server command: /mpcaseview 10
+[01:15:08] TheBotStyle issued server command: /rollcase 10
+[01:15:09] [L] kpakeh9000: че этро
+[01:15:13] [L] Big_Rusian_Boss: проверка
+[01:15:15] [L] Big_Rusian_Boss: на жирдяя
+[01:15:21] [L] Big_Rusian_Boss: некронс самый жирный
+[01:15:22] TheBotStyle issued server command: /mpcaseview 10
+[01:15:23] TheBotStyle issued server command: /rollcase 10
+[01:15:23] [L] kpakeh9000: у меня нет ещё живота для пива
+[01:15:37] TheBotStyle issued server command: /mpcaseview 10
+[01:15:38] TheBotStyle issued server command: /rollcase 10
+[01:15:45] [L] AlkashMestniy: иди работай
+[01:15:47] [L] AlkashMestniy: в шахту
+[01:15:51] TheBotStyle issued server command: /mpcaseview 10
+[01:15:52] TheBotStyle issued server command: /rollcase 10
+[01:16:06] TheBotStyle issued server command: /mpcaseview 10
+[01:16:11] TheBotStyle issued server command: /rollcase 10
+[01:16:13] AlkashMestniy issued server command: /r Заснял?
+[01:16:20] AlkashMestniy issued server command: /r Давай бан ему и всё
+[01:16:25] TheBotStyle issued server command: /mpcaseview 10
+[01:16:29] TheBotStyle issued server command: /rollcase 10
+[01:16:38] AlkashMestniy убил artemvesyolyh (DRACONICEVOLUTION_DRACONICSWORD)
+[01:16:42] artemvesyolyh issued server command: /we cui
+[01:16:42] TheBotStyle issued server command: /mpcaseview 10
+[01:16:44] TheBotStyle issued server command: /rollcase 10
+[01:16:44] [G] Big_Rusian_Boss: !F
+[01:16:44] Yoonllx issued server command: /tpa AlkashMestniy
+[01:16:47] artemvesyolyh issued server command: /tpa AlkashMestniy
+[01:16:50] artemvesyolyh issued server command: /warp world
+[01:16:51] [G] BlackBack: !забивной алкаш
+[01:16:51] artemvesyolyh issued server command: /we cui
+[01:16:53] AlkashMestniy issued server command: /езфссузе
+[01:16:53] AlkashMestniy issued server command: /tpaccept
+[01:16:53] artemvesyolyh issued server command: /tpa AlkashMestniy
+[01:16:56] [L] AlkashMestniy: что?
+[01:16:57] Big_Rusian_Boss issued server command: /warp shop
+[01:16:58] TheBotStyle issued server command: /mpcaseview 10
+[01:17:00] [L] Yoonllx: салам алейкум
+[01:17:14] artemvesyolyh issued server command: /tpa enioZz
+[01:17:19] artemvesyolyh issued server command: /tpa Jorge
+[01:17:21] [L] Yoonllx: мне просто делать нечего после того как я все свои вещи в бездне просрал вот я и тепнулся.
+[01:17:24] artemvesyolyh issued server command: /tpa kirito3
+[01:17:27] AlkashMestniy убил Yoonllx (AIR)
+[01:17:27] artemvesyolyh issued server command: /tpa kirito3
+[01:17:28] Big_Rusian_Boss вышел
+[01:17:34] Yoonllx issued server command: /we cui
+[01:17:38] artemvesyolyh issued server command: /tpa AlkashMestniy
+[01:17:39] Yoonllx issued server command: /tpa AlkashMestniy
+[01:17:40] Yoonllx issued server command: /tpa AlkashMestniy
+[01:17:41] artemvesyolyh issued server command: /money
+[01:17:42] Yoonllx issued server command: /home
+[01:17:47] artemvesyolyh issued server command: /playtime
+[01:17:49] Yoonllx issued server command: /we cui
+[01:17:50] artemvesyolyh issued server command: /money top
+[01:17:51] Yoonllx issued server command: /tpa AlkashMestniy
+[01:17:56] artemvesyolyh issued server command: //chunk
+[01:17:56] artemvesyolyh issued server command: //outset 16
+[01:17:56] artemvesyolyh issued server command: /zone
+[01:18:01] AlkashMestniy issued server command: /езфссузе
+[01:18:01] AlkashMestniy issued server command: /tpaccept
+[01:18:01] artemvesyolyh issued server command: //sel
+[01:18:02] AlkashMestniy issued server command: /езфссузе
+[01:18:02] AlkashMestniy issued server command: /tpaccept
+[01:18:02] artemvesyolyh issued server command: /buyflag
+[01:18:05] artemvesyolyh issued server command: /playtime
+[01:18:06] artemvesyolyh issued server command: /playtimetop
+[01:18:07] [L] Yoonllx: блеат
+[01:18:08] artemvesyolyh issued server command: /playtimetop clear
+[01:18:08] TheBotStyle issued server command: /kit ultranano
+[01:18:14] [L] Yoonllx: не надо дядя
+[01:18:15] artemvesyolyh вышел
+[01:18:25] [L] Yoonllx: тапок заминирован
+[01:18:30] [L] Yoonllx: эээээ
+[01:18:32] AlkashMestniy убил Yoonllx (AIR)
+[01:18:39] Yoonllx issued server command: /we cui
+[01:18:43] Yoonllx issued server command: /tpa AlkashMestniy
+[01:18:47] Yoonllx issued server command: /home
+[01:18:53] Yoonllx issued server command: /we cui
+[01:18:54] Yoonllx issued server command: /tpa AlkashMestniy
+[01:18:58] AlkashMestniy issued server command: /езфссузе
+[01:18:58] AlkashMestniy issued server command: /tpaccept
+[01:19:00] [G] zxcursed1337: !забейте
+[01:19:06] [G] kpakeh9000: !кого?
+[01:19:10] [G] Yoonllx: !меня
+[01:19:13] [G] kpakeh9000: !гвоздь?
+[01:19:14] TheBotStyle issued server command: /god
+[01:19:15] [G] zxcursed1337: !Этот местный, только пустые предъявы кидать может)
+[01:19:16] [G] BlackBack: !тебя и так
+[01:19:23] TheBotStyle issued server command: /fly
+[01:19:26] linbergusha issued server command: /home
+[01:19:34] [G] zxcursed1337: !Жалуется всем что я что-то там дюпаю, хотя я даже дюпов не знаю :D
+[01:19:34] [G] Yoonllx: !меня и так бездна забила!!!!
+[01:19:43] [G] Yoonllx: !эх че щас дюпать? хаахыах
+[01:19:44] bum_ зашёл
+[01:19:47] bum_ issued server command: /we cui
+[01:19:51] [L] AlkashMestniy: он дюпал
+[01:19:53] [L] AlkashMestniy: отнекивается
+[01:19:57] [L] AlkashMestniy: просто нету модеров
+[01:19:59] zxcursed1337 issued server command: /playtime AlkashMestniy
+[01:20:00] [G] Yoonllx: !а ну да
+[01:20:03] TheBotStyle issued server command: /playtime
+[01:20:04] BlackBack issued server command: /playtimetop
+[01:20:05] [G] Yoonllx: !я дюпаю уже 3 года
+[01:20:06] [L] AlkashMestniy: которые могут за эти слова ему ебало снести
+[01:20:12] BlackBack issued server command: /playtimetop clear
+[01:20:12] [G] kpakeh9000: !рил?
+[01:20:13] [G] zxcursed1337: !252 часа парень играет, только недавно панельку 8 лвла сделал, не обижайте его(
+[01:20:15] [G] Yoonllx: !нет.
+[01:20:18] kpakeh9000 issued server command: /
+[01:20:24] [G] AlkashMestniy: !Правда? Только Мазуна говорил другое
+[01:20:26] linbergusha issued server command: /warp one
+[01:20:32] [G] zxcursed1337: !А почему я не в бане?)
+[01:20:34] enioZz issued server command: /home
+[01:20:36] [G] zxcursed1337: !расскажешь?
+[01:20:40] [G] AlkashMestniy: !Ну не пизд*ишь?
+[01:20:41] TheBotStyle issued server command: /kit top
+[01:20:46] [G] BlackBack: !аъахахаах
+[01:20:48] [G] zxcursed1337: !Наговорился)
+[01:20:59] kpakeh9000 issued server command: /tpa bum_
+[01:21:03] [L] Yoonllx: дай лук
+[01:21:05] [L] Yoonllx: :)
+[01:21:07] linbergusha issued server command: /home
+[01:21:08] [G] zxcursed1337: !Завтра вечерком заходи, с работы прийду, поднимим еще этот вопрос
+[01:21:17] kpakeh9000 issued server command: /tpa bum_
+[01:21:25] [L] Yoonllx: дай лук
+[01:21:25] MClike зашёл
+[01:21:26] [L] Yoonllx: :)
+[01:21:29] MClike issued server command: /we cui
+[01:21:29] kpakeh9000 issued server command: /tpa bum_
+[01:21:30] kpakeh9000 issued server command: /tpa bum_
+[01:21:33] vitask issued server command: /tppos -1333 72 -4512
+[01:21:46] [G] zxcursed1337: !всем спокойной еще раз
+[01:21:52] [G] BlackBack: !спокойной
+[01:21:53] [G] kpakeh9000: !бб
+[01:21:59] [L] Yoonllx: ты шо меня же убьют
+[01:22:04] kpakeh9000 issued server command: /tpa bum_
+[01:22:32] [L] Yoonllx: а можно это?)
+[01:22:43] [L] AlkashMestniy: нет
+[01:22:47] linbergusha issued server command: /warp one
+[01:22:54] BlackBack issued server command: /warp h
+[01:23:02] [L] Yoonllx: я свою просрал в бездне(
+[01:23:45] linbergusha issued server command: /home
+[01:23:49] linbergusha issued server command: /eat
+[01:24:37] Yoonllx умер (FALL)
+[01:24:46] [G] BlackBack: !ты суицид уже решил?
+[01:24:51] TheBotStyle issued server command: /warp mining
+[01:24:53] TheBotStyle issued server command: /we cui
+[01:24:59] Yoonllx вышел
+[01:25:32] AlkashMestniy issued server command: /рщьу
+[01:25:32] AlkashMestniy issued server command: /home
+[01:26:54] BlackBack issued server command: /warp h
+[01:27:57] AlkashMestniy issued server command: /warp end
+[01:27:58] AlkashMestniy issued server command: /we cui
+[01:28:02] AlkashMestniy issued server command: /warp one
+[01:28:03] AlkashMestniy issued server command: /we cui
+[01:28:09] [L] AlkashMestniy: 1
+[01:28:11] AlkashMestniy issued server command: /money
+[01:28:19] [L] AlkashMestniy: 7
+[01:28:32] [L] AlkashMestniy: 16
+[01:28:38] [L] AlkashMestniy: 14
+[01:28:43] [L] AlkashMestniy: 14
+[01:28:46] linbergusha issued server command: /home
+[01:28:46] bum_ issued server command: /ауув
+[01:28:46] bum_ issued server command: /feed
+[01:28:48] Yoonllx зашёл
+[01:28:48] [L] AlkashMestniy: 1
+[01:28:49] AlkashMestniy issued server command: /home
+[01:28:51] AlkashMestniy issued server command: /money
+[01:28:59] bum_ issued server command: /oi kpakeh9000
+[01:29:04] bum_ issued server command: /oi kpakeh9000
+[01:29:07] Yoonllx issued server command: /we cui
+[01:29:13] Yoonllx issued server command: /home
+[01:29:17] Yoonllx issued server command: /we cui
+[01:29:27] Yoonllx issued server command: /tpa AlkashMestniy
+[01:29:42] kirito3 issued server command: /home
+[01:29:44] AlkashMestniy issued server command: /езфссузе
+[01:29:44] AlkashMestniy issued server command: /tpaccept
+[01:29:49] enioZz issued server command: /playtime
+[01:29:50] vitask issued server command: /warp one
+[01:30:02] [L] Yoonllx: ну так шо можно?(
+[01:30:15] kirito3 вышел
+[01:30:15] [L] AlkashMestniy: кого бля
+[01:30:18] linbergusha issued server command: /warp one
+[01:30:30] [L] Yoonllx: :(
+[01:30:43] [L] Yoonllx: ну дай пж(
+[01:30:43] linbergusha issued server command: /home
+[01:30:53] linbergusha issued server command: /home
+[01:31:13] enioZz issued server command: /warp mining
+[01:31:20] enioZz issued server command: /we cui
+[01:31:35] kirito3 зашёл
+[01:31:37] [L] Yoonllx: за сет?
+[01:31:41] kirito3 issued server command: /we cui
+[01:31:51] [L] Yoonllx: ?
+[01:32:05] linbergusha issued server command: /home
+[01:32:07] Yoonllx issued server command: /warp shop
+[01:32:07] enioZz issued server command: /rtp
+[01:32:10] Yoonllx issued server command: /we cui
+[01:32:32] AlkashMestniy issued server command: /warp one
+[01:32:37] [L] AlkashMestniy: 2
+[01:32:40] Yoonllx issued server command: /tpa AlkashMestniy
+[01:32:42] [L] AlkashMestniy: 2
+[01:32:43] Yoonllx issued server command: /home
+[01:32:47] [L] AlkashMestniy: 2
+[01:32:47] Yoonllx issued server command: /we cui
+[01:32:50] Yoonllx issued server command: /tpa AlkashMestniy
+[01:32:52] [L] AlkashMestniy: 12
+[01:32:55] [L] vitask: 1
+[01:32:58] [L] AlkashMestniy: 2
+[01:33:08] [L] AlkashMestniy: 2
+[01:33:10] AlkashMestniy issued server command: /home
+[01:33:12] linbergusha issued server command: /rg removemember white1 -n 1410c63f-9ed0-356d-b99c-0cfb47d8f39a
+[01:33:17] Yoonllx issued server command: /tpa AlkashMestniy
+[01:33:22] AlkashMestniy issued server command: /tpaccept
+[01:33:34] [L] vitask: 1
+[01:33:44] kirito3 issued server command: /ec
+[01:33:47] [L] Yoonllx: я уже выполнял задание но я тебе могу дать трофей свой эпический за сет квантаа\
+[01:34:06] [L] Yoonllx: ау
+[01:34:10] [L] Yoonllx: я уже выполнял задание но я тебе могу дать трофей свой эпический за сет квантаа\
+[01:34:27] [L] Yoonllx: тп с бронь кванта :)
+[01:34:33] Yoonllx issued server command: /home
+[01:35:03] Yoonllx issued server command: /m AlkashMestniy тепайся
+[01:35:05] [G] linbergusha: ! куплю 5 стаков фиолетового красителя И 5 стаков пурпурного
+[01:35:21] kirito3 issued server command: /warp s
+[01:35:30] AlkashMestniy issued server command: /рщьу
+[01:35:30] AlkashMestniy issued server command: /home
+[01:35:49] Yoonllx issued server command: /m AlkashMestniy тепайся
+[01:36:03] Yoonllx issued server command: /tpa AlkashMestniy
+[01:36:18] AlkashMestniy issued server command: /рщьу
+[01:36:18] AlkashMestniy issued server command: /home
+[01:36:20] AlkashMestniy issued server command: /езфссузе
+[01:36:20] AlkashMestniy issued server command: /tpaccept
+[01:36:24] [L] Yoonllx: шо не тепаешься
+[01:36:33] vitask issued server command: /tppos -1333 72 -4512
+[01:36:46] kpakeh9000 вышел
+[01:36:51] [L] Yoonllx: а за 2 эпики?) пхп
+[01:37:03] [L] Yoonllx: ну бл мне он срочно нужен
+[01:37:09] AlkashMestniy issued server command: /warp one
+[01:37:11] AlkashMestniy issued server command: /mone
+[01:37:12] AlkashMestniy issued server command: /money
+[01:37:25] [L] AlkashMestniy: 16
+[01:37:38] [L] AlkashMestniy: 16
+[01:37:39] [L] AlkashMestniy: 6
+[01:37:41] [L] AlkashMestniy: 6
+[01:37:44] AlkashMestniy issued server command: /warp s
+[01:38:02] Yoonllx issued server command: /m AlkashMestniy хде ты
+[01:38:04] [G] kirito3: !мда на warp s нету железа
+[01:38:11] [L] AlkashMestniy: 32
+[01:38:13] AlkashMestniy issued server command: /money
+[01:38:19] [L] AlkashMestniy: 6
+[01:38:20] AlkashMestniy issued server command: /home
+[01:38:43] AlkashMestniy issued server command: /warp shop
+[01:38:43] enioZz issued server command: /home
+[01:38:44] AlkashMestniy issued server command: /we cui
+[01:38:44] enioZz issued server command: /we cui
+[01:38:47] AlkashMestniy issued server command: /warp one
+[01:38:48] AlkashMestniy issued server command: /we cui
+[01:38:58] [L] AlkashMestniy: 14
+[01:38:59] AlkashMestniy issued server command: /home
+[01:39:04] [L] Yoonllx: ну так шо
+[01:39:17] [L] Yoonllx: блеа
+[01:39:20] kirito3 issued server command: /warp s
+[01:39:32] [L] Yoonllx: а можешь не нужные вещи дать какие то? а то я совсем бомжом стал
+[01:39:37] enioZz issued server command: /warp mining
+[01:39:38] enioZz issued server command: /we cui
+[01:39:40] enioZz issued server command: /rtp
+[01:39:44] vitask issued server command: /warp one
+[01:39:53] [L] vitask: 1
+[01:39:58] vitask issued server command: /tppos -1333 72 -4512
+[01:40:08] [L] Yoonllx: у меня 4
+[01:40:14] [L] Yoonllx: а что ты взамен дашь
+[01:40:18] kirito3 issued server command: /warp dark
+[01:40:18] vitask issued server command: /мфтшыр
+[01:40:18] vitask issued server command: /vanish
+[01:40:23] kirito3 issued server command: /warp list
+[01:40:41] kirito3 issued server command: /warp list 2
+[01:40:46] [L] Yoonllx: какихх
+[01:40:47] [L] Yoonllx: ...
+[01:40:47] Yoonllx issued server command: //
+[01:40:47] Yoonllx issued server command: //
+[01:40:49] kirito3 issued server command: /warp hard
+[01:41:00] kirito3 issued server command: /warp gg
+[01:41:07] [L] Yoonllx: это бомжатские какие то...
+[01:41:13] kirito3 issued server command: /warp 3
+[01:41:19] kirito3 issued server command: /warp list 3
+[01:41:26] [L] Yoonllx: я и так гуляю вродь
+[01:41:34] Yoonllx issued server command: /tpa Jorge
+[01:41:34] kirito3 issued server command: /warp mega
+[01:41:50] AlkashMestniy issued server command: /рщьу
+[01:41:50] AlkashMestniy issued server command: /home
+[01:41:51] Yoonllx issued server command: /m bum_
+[01:41:55] Yoonllx issued server command: /tpa bum_
+[01:41:59] AlkashMestniy issued server command: /warp s
+[01:42:08] [L] AlkashMestniy: 10
+[01:42:08] [G] Yoonllx: !кто жив
+[01:42:14] kirito3 issued server command: /warp one
+[01:42:22] [L] AlkashMestniy: 64
+[01:42:24] AlkashMestniy issued server command: /money
+[01:42:29] [L] AlkashMestniy: 4
+[01:42:32] [L] AlkashMestniy: 2
+[01:42:36] Yoonllx issued server command: /home
+[01:42:44] Yoonllx вышел
+[01:42:45] [L] AlkashMestniy: 2
+[01:42:47] AlkashMestniy issued server command: /warp s
+[01:42:49] AlkashMestniy issued server command: /warp one
+[01:42:59] [L] AlkashMestniy: 2
+[01:43:01] kirito3 issued server command: /warp p
+[01:43:03] AlkashMestniy issued server command: /home
+[01:43:22] kirito3 issued server command: /warp mini
+[01:44:16] linbergusha issued server command: /home
+[01:44:23] linbergusha issued server command: /уф
+[01:44:23] linbergusha issued server command: /ea
+[01:44:24] [L] linbergusha: .уфе
+[01:44:24] linbergusha issued server command: /eat
+[01:44:28] linbergusha issued server command: /уфе
+[01:44:28] linbergusha issued server command: /eat
+[01:45:14] AlkashMestniy issued server command: /рщьу
+[01:45:14] AlkashMestniy issued server command: /home
+[01:45:26] kirito3 issued server command: /pm 3lay_tykva у вас закончилось железо. сделайте что нибудь с этим!
+[01:46:15] linbergusha issued server command: /home
+[01:46:21] linbergusha issued server command: /home
+[01:47:06] [G] linbergusha: ! куплю 5 стаков фиолетового красителя И 5 стаков пурпурного
+[01:47:07] [G] bum_: !я жив
+[01:47:12] linbergusha issued server command: /warp one
+[01:47:28] linbergusha issued server command: /home
+[01:47:36] [G] kirito3: !открой дарк снова
+[01:47:45] bum_ issued server command: /w linbergusha )
+[01:48:06] bum_ issued server command: /zset
