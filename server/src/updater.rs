@@ -12,5 +12,5 @@ pub async fn updater_logs() {
 		.await
 		.expect("pizda2");
 	println!("proshlo!");
-	fs::write("logs/shadowcraft_magic1710.txt", resp).await.unwrap();
+	fs::write("logs/shadowcraft_magic1710.log", resp).await.unwrap();
 }
